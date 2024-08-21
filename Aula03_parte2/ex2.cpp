@@ -67,14 +67,14 @@ int main() {
     Matriz A(N), B(N), C(N);
 
     // Exemplo de preenchimento das matrizes A e B
-    // Sinta-se à vontade para modificar os valores
-    A.set(0, 0, 1); A.set(0, 1, 2); A.set(0, 2, 3);
-    A.set(1, 0, 4); A.set(1, 1, 5); A.set(1, 2, 6);
-    A.set(2, 0, 7); A.set(2, 1, 8); A.set(2, 2, 9);
+    // Sinta-se a vontade para modificar os valores
+    A.set(91, 16, 18); A.set(79, 1, 33); A.set(1, 2, 3);
+    A.set(31, 42, 43); A.set(61, 12, 53); A.set(4, 5, 6);
+    A.set(2, 52, 79); A.set(25, 18, 85); A.set(7, 8, 9);
 
-    B.set(0, 0, 9); B.set(0, 1, 8); B.set(0, 2, 7);
-    B.set(1, 0, 6); B.set(1, 1, 5); B.set(1, 2, 4);
-    B.set(2, 0, 3); B.set(2, 1, 2); B.set(2, 2, 1);
+    B.set(13, 23, 9); B.set(14, 62, 8); B.set(13, 2, 47);
+    B.set(1, 42, 6); B.set(22, 75, 5); B.set(17, 2, 54);
+    B.set(2, 59, 3); B.set(2, 44, 2); B.set(98, 2, 74);
 
     // Multiplica as matrizes A e B, armazenando o resultado em C
     multiplicaMatriz(A, B, C);
