@@ -42,6 +42,7 @@ int main() {
 }
 
 
+// outro jeito de fazer
 /*
 switch (operacao) {
         case '+':

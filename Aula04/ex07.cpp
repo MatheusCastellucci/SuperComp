@@ -1,4 +1,4 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída padrão
+#include <iostream>
 
 void bubbleSort(int arr[], int n) {
     bool trocado;
@@ -20,8 +20,8 @@ void bubbleSort(int arr[], int n) {
 }
 
 int main() {
-    const int tamanho = 10; // Define o tamanho do vetor
-    int numeros[tamanho];   // Declara um vetor para armazenar os números
+    const int tamanho = 10;
+    int numeros[tamanho];
 
     // Pede ao usuário para inserir 10 números
     std::cout << "Digite 10 numeros:" << std::endl;
@@ -40,5 +40,5 @@ int main() {
     }
     std::cout << std::endl;
 
-    return 0; // Indica que o programa terminou com sucesso
+    return 0;
 }

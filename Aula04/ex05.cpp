@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main() {
-    const int tamanho = 5; // Define o tamanho do vetor
+    const int tamanho = 5; // Define o tamanho do vetor   -   Infelizmente precisa fazer separado
     int numeros[tamanho];  // Declara um vetor para armazenar os números
-    int soma = 0;          // Declara uma variável para armazenar a soma
+    int soma = 0;
 
     // Pede ao usuário para inserir 5 números
     std::cout << "Digite 5 numeros:" << std::endl;
@@ -20,5 +20,5 @@ int main() {
     // Exibe a soma dos números
     std::cout << "A soma dos numeros eh: " << soma << std::endl;
 
-    return 0; // Indica que o programa terminou com sucesso
+    return 0;
 }

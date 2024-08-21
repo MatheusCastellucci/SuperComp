@@ -1,7 +1,7 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída padrão
+#include <iostream>
 #include <fstream>  // Inclui a biblioteca para operações de arquivo
 #include <sstream>  // Inclui a biblioteca para manipulação de strings
-#include <string>   // Inclui a biblioteca para manipulação de strings
+#include <string>
 #include <unordered_map> // Inclui a biblioteca para mapear palavras e contar frequências
 #include <vector>   // Inclui a biblioteca para manipulação de vetores
 #include <algorithm> // Inclui a biblioteca para operações algorítmicas como max_element

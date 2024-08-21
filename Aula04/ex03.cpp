@@ -1,9 +1,7 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída padrão
+#include <iostream>
 
 int main() {
-    int numero; // Declara uma variável para armazenar o número
-
-    // Pede ao usuário para inserir um número
+    int numero;
     std::cout << "Digite um numero: ";
     std::cin >> numero;
 
@@ -13,6 +11,5 @@ int main() {
     } else {
         std::cout << "O numero " << numero << " eh impar." << std::endl;
     }
-
-    return 0; // Indica que o programa terminou com sucesso
+    return 0;
 }

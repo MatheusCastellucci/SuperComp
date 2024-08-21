@@ -1,8 +1,8 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída padrão
+#include <iostream> 
 
 int main() {
-    const int tamanho = 10; // Define o tamanho do vetor
-    int numeros[tamanho];   // Declara um vetor para armazenar os números
+    const int tamanho = 10;
+    int numeros[tamanho];
 
     // Pede ao usuário para inserir 10 números
     std::cout << "Digite 10 numeros:" << std::endl;
@@ -22,5 +22,5 @@ int main() {
     // Exibe o maior número
     std::cout << "O maior numero eh: " << maior << std::endl;
 
-    return 0; // Indica que o programa terminou com sucesso
+    return 0;
 }

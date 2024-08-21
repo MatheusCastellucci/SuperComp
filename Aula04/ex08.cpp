@@ -1,9 +1,9 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída padrão
+#include <iostream>
 
 int main() {
     const int tamanho = 3; // Define o tamanho da matriz 3x3
     int matriz[tamanho][tamanho]; // Declara a matriz 3x3
-    int somaDiagonal = 0; // Inicializa a variável para armazenar a soma da diagonal principal
+    int somaDiagonal = 0;
 
     // Pede ao usuário para inserir os elementos da matriz
     std::cout << "Digite os elementos da matriz 3x3:" << std::endl;

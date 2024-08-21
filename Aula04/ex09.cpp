@@ -1,31 +1,30 @@
 #include <iostream>
 #include <string>
 
-bool isPalindromo(const std::string& str) {
+bool isPalindromo(const std::string& palindromo) {
     int inicio = 0;
-    int fim = str.length() - 1;
+    int fim = palindromo.length() - 1;
     
     while (inicio < fim) {
-        while (inicio < fim && !std::isalnum(str[inicio])) {
+        while (inicio < fim && !std::isalnum(palindromo[inicio])) {
             ++inicio;
         }
-        while (inicio < fim && !std::isalnum(str[fim])) {
+        while (inicio < fim && !std::isalnum(palindromo[fim])) {
             --fim;
         }
 
         // Compara os caracteres em minúsculas
-        if (std::tolower(str[inicio]) != std::tolower(str[fim])) {
+        if (std::tolower(palindromo[inicio]) != std::tolower(palindromo[fim])) {
             return false; // Não é um palíndromo
         }
         ++inicio;
         --fim;
     }
-    
-    return true; // É um palíndromo
+    return true;
 }
 
 int main() {
-    std::string palavra; // Declara uma variável para armazenar a string
+    std::string palavra;
 
     // Pede ao usuário para inserir uma string
     std::cout << "Digite uma string: ";
@@ -38,5 +37,4 @@ int main() {
         std::cout << "A string nao eh um palindromo." << std::endl;
     }
 
-    return 0; // Indica que o programa terminou com sucesso
-}
+    return 0;
