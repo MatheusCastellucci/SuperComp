@@ -1,20 +1,20 @@
 Arquivo: in1.txt
 Peso ocupado: 10 Kg
 Valor máximo na mochila: 266 dinheiros
-Tempo de execução: 8.11e-06 segundos
+Tempo de execução: 8.161e-06 segundos
 ---------------------------
 Arquivo: in2.txt
 Peso ocupado: 2 Kg
 Valor máximo na mochila: 156 dinheiros
-Tempo de execução: 8.56e-07 segundos
+Tempo de execução: 9.13e-07 segundos
 ---------------------------
 Arquivo: in3.txt
 Peso ocupado: 95 Kg
 Valor máximo na mochila: 236 dinheiros
-Tempo de execução: 1.5796e-05 segundos
+Tempo de execução: 1.1003e-05 segundos
 ---------------------------
 Arquivo: in4.txt
 Peso ocupado: 10 Kg
 Valor máximo na mochila: 55 dinheiros
-Tempo de execução: 1.729e-06 segundos
+Tempo de execução: 1.856e-06 segundos
 ---------------------------
