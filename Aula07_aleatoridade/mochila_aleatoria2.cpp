@@ -31,9 +31,8 @@ int mochilaProbabilidade(int capacidade, vector<Item>& itens, int n, double limi
             if (pesoAtual + itens[i].peso <= capacidade) {
                 pesoAtual += itens[i].peso;
                 valorTotal += itens[i].valor;
-                cout << "Adicionando item de peso " << itens[i].peso << " e valor " << itens[i].valor << endl;
             } else {
-                cout << "Ignorando item de peso " << itens[i].peso << " por exceder a capacidade" << endl;
+                cout << "Ignorando item de peso " << itens[i].peso << " e valor " << itens[i].valor << " devido à capacidade excedida" << endl;
             }
         } else {
             cout << "Ignorando item de peso " << itens[i].peso << " e valor " << itens[i].valor << " com base na probabilidade" << endl;
@@ -46,44 +45,44 @@ int mochilaProbabilidade(int capacidade, vector<Item>& itens, int n, double limi
     return valorTotal;
 }
 
-int main() {
-    string filename;
-    cout << "Digite o nome do arquivo de entrada: ";
-    cin >> filename;
-
-    ifstream infile(filename);
+void lerEntrada(const string& nomeArquivo, int& capacidade, vector<Item>& itens) {
+    ifstream infile(nomeArquivo);
 
     if (!infile) {
-        cerr << "Erro ao abrir o arquivo " << filename << endl;
-        return 1;
+        cerr << "Erro ao abrir o arquivo " << nomeArquivo << endl;
+        exit(1);
     }
 
-    int capacidade, n;
-
+    int n;
     infile >> capacidade >> n;
+    itens.resize(n);
 
-    vector<Item> itens(n);
-
-    // Leitura dos itens (peso e valor)
     for (int i = 0; i < n; i++) {
         infile >> itens[i].peso >> itens[i].valor;
     }
 
     infile.close();
+}
 
-    // Início da medição do tempo
-    auto start = high_resolution_clock::now();
+int main() {
+    vector<string> arquivosEntrada = {"Entrada_1.txt", "Entrada_2.txt", "Entrada_3.txt", "Entrada_4.txt"};
 
-    // Aplicação da seleção aleatória baseada em probabilidade
-    int valorMaximo = mochilaProbabilidade(capacidade, itens, n);
+    for (const auto& nomeArquivo : arquivosEntrada) {
+        int capacidade;
+        vector<Item> itens;
+        
+        lerEntrada(nomeArquivo, capacidade, itens);
 
-    // Fim da medição do tempo
-    auto stop = high_resolution_clock::now();
-    auto duration = duration_cast<microseconds>(stop - start);
+        auto inicio = chrono::high_resolution_clock::now();
+        long long valorMaximo = mochilaProbabilidade(capacidade, itens, itens.size());
+        auto fim = chrono::high_resolution_clock::now();
+        chrono::duration<double> duracao = fim - inicio;
 
-    // Exibir o valor total e o tempo de execução
-    cout << "Valor total na mochila: " << valorMaximo << endl;
-    cout << "Tempo de execução: " << duration.count() << " microsegundos" << endl;
+        cout << "Arquivo: " << nomeArquivo << endl;
+        cout << "Valor total na mochila: " << valorMaximo << " dinheiros" << endl;
+        cout << "Tempo de execução: " << duracao.count() << " segundos" << endl;
+        cout << "----------------------------" << endl;
+    }
 
     return 0;
 }
