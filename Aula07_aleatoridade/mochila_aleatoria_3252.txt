@@ -1,0 +1,20 @@
+Arquivo: Entrada_1.txt
+Peso ocupado: 336 Kg
+Valor máximo na mochila: 225 dinheiros
+Tempo de execução: 2.7585e-05 segundos
+---------------------------
+Arquivo: Entrada_2.txt
+Peso ocupado: 178 Kg
+Valor máximo na mochila: 182 dinheiros
+Tempo de execução: 2.5415e-05 segundos
+---------------------------
+Arquivo: Entrada_3.txt
+Peso ocupado: 405 Kg
+Valor máximo na mochila: 3320 dinheiros
+Tempo de execução: 2.5634e-05 segundos
+---------------------------
+Arquivo: Entrada_4.txt
+Peso ocupado: 583 Kg
+Valor máximo na mochila: 360 dinheiros
+Tempo de execução: 2.3618e-05 segundos
+---------------------------

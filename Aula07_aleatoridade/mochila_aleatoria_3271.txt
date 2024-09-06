@@ -1,0 +1,4016 @@
+Probabilidade gerada para o item 1: 0.0192354
+Ignorando item de peso 35 e valor 72 com base na probabilidade
+Probabilidade gerada para o item 2: 0.911264
+Adicionando item de peso 22 e valor 19
+Probabilidade gerada para o item 3: 0.979358
+Ignorando item de peso 84 por exceder a capacidade
+Probabilidade gerada para o item 4: 0.0740237
+Ignorando item de peso 59 e valor 54 com base na probabilidade
+Probabilidade gerada para o item 5: 0.715464
+Ignorando item de peso 86 por exceder a capacidade
+Probabilidade gerada para o item 6: 0.0396702
+Ignorando item de peso 41 e valor 25 com base na probabilidade
+Probabilidade gerada para o item 7: 0.177297
+Ignorando item de peso 80 e valor 19 com base na probabilidade
+Probabilidade gerada para o item 8: 0.26891
+Ignorando item de peso 24 e valor 27 com base na probabilidade
+Probabilidade gerada para o item 9: 0.448436
+Ignorando item de peso 87 e valor 61 com base na probabilidade
+Probabilidade gerada para o item 10: 0.566707
+Ignorando item de peso 77 por exceder a capacidade
+Probabilidade gerada para o item 11: 0.832644
+Ignorando item de peso 45 por exceder a capacidade
+Probabilidade gerada para o item 12: 0.0264642
+Ignorando item de peso 64 e valor 72 com base na probabilidade
+Probabilidade gerada para o item 13: 0.784617
+Ignorando item de peso 79 por exceder a capacidade
+Probabilidade gerada para o item 14: 0.566044
+Ignorando item de peso 65 por exceder a capacidade
+Probabilidade gerada para o item 15: 0.320845
+Ignorando item de peso 55 e valor 39 com base na probabilidade
+Probabilidade gerada para o item 16: 0.949095
+Ignorando item de peso 48 por exceder a capacidade
+Probabilidade gerada para o item 17: 0.781064
+Ignorando item de peso 75 por exceder a capacidade
+Probabilidade gerada para o item 18: 0.126959
+Ignorando item de peso 61 e valor 33 com base na probabilidade
+Probabilidade gerada para o item 19: 0.476802
+Ignorando item de peso 73 e valor 44 com base na probabilidade
+Probabilidade gerada para o item 20: 0.0972082
+Ignorando item de peso 80 e valor 17 com base na probabilidade
+Probabilidade gerada para o item 21: 0.707538
+Ignorando item de peso 56 por exceder a capacidade
+Probabilidade gerada para o item 22: 0.0041546
+Ignorando item de peso 83 e valor 67 com base na probabilidade
+Probabilidade gerada para o item 23: 0.412017
+Ignorando item de peso 62 e valor 49 com base na probabilidade
+Probabilidade gerada para o item 24: 0.536911
+Ignorando item de peso 66 por exceder a capacidade
+Probabilidade gerada para o item 25: 0.657439
+Ignorando item de peso 43 por exceder a capacidade
+Probabilidade gerada para o item 26: 0.76791
+Ignorando item de peso 64 por exceder a capacidade
+Probabilidade gerada para o item 27: 0.85031
+Ignorando item de peso 39 por exceder a capacidade
+Probabilidade gerada para o item 28: 0.434779
+Ignorando item de peso 58 e valor 45 com base na probabilidade
+Probabilidade gerada para o item 29: 0.81179
+Ignorando item de peso 44 por exceder a capacidade
+Probabilidade gerada para o item 30: 0.927122
+Ignorando item de peso 81 por exceder a capacidade
+Probabilidade gerada para o item 31: 0.64771
+Adicionando item de peso 28 e valor 40
+Probabilidade gerada para o item 32: 0.496815
+Ignorando item de peso 37 e valor 66 com base na probabilidade
+Probabilidade gerada para o item 33: 0.3185
+Ignorando item de peso 86 e valor 10 com base na probabilidade
+Probabilidade gerada para o item 34: 0.553661
+Ignorando item de peso 66 por exceder a capacidade
+Probabilidade gerada para o item 35: 0.560894
+Ignorando item de peso 41 por exceder a capacidade
+Probabilidade gerada para o item 36: 0.591627
+Ignorando item de peso 48 por exceder a capacidade
+Probabilidade gerada para o item 37: 0.595531
+Ignorando item de peso 38 por exceder a capacidade
+Probabilidade gerada para o item 38: 0.507419
+Ignorando item de peso 30 por exceder a capacidade
+Probabilidade gerada para o item 39: 0.878926
+Ignorando item de peso 66 por exceder a capacidade
+Probabilidade gerada para o item 40: 0.4762
+Ignorando item de peso 67 e valor 68 com base na probabilidade
+Probabilidade gerada para o item 41: 0.381283
+Ignorando item de peso 67 e valor 23 com base na probabilidade
+Probabilidade gerada para o item 42: 0.585152
+Ignorando item de peso 41 por exceder a capacidade
+Probabilidade gerada para o item 43: 0.944881
+Ignorando item de peso 83 por exceder a capacidade
+Probabilidade gerada para o item 44: 0.0113948
+Ignorando item de peso 84 e valor 71 com base na probabilidade
+Probabilidade gerada para o item 45: 0.0689126
+Ignorando item de peso 29 e valor 67 com base na probabilidade
+Probabilidade gerada para o item 46: 0.532822
+Ignorando item de peso 75 por exceder a capacidade
+Probabilidade gerada para o item 47: 0.266775
+Ignorando item de peso 44 e valor 18 com base na probabilidade
+Probabilidade gerada para o item 48: 0.455221
+Ignorando item de peso 70 e valor 56 com base na probabilidade
+Probabilidade gerada para o item 49: 0.486081
+Ignorando item de peso 79 e valor 64 com base na probabilidade
+Probabilidade gerada para o item 50: 0.920574
+Ignorando item de peso 52 por exceder a capacidade
+Probabilidade gerada para o item 51: 0.962064
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 52: 0.448619
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 53: 0.932212
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 54: 0.292611
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 55: 0.429143
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 56: 0.173886
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 57: 0.791613
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 58: 0.81813
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 59: 0.594874
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 60: 0.281223
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 61: 0.596471
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 62: 0.971006
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 63: 0.604061
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 64: 0.251542
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 65: 0.788221
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 66: 0.169646
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 67: 0.535875
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 68: 0.709232
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 69: 0.98915
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 70: 0.876667
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 71: 0.653405
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 72: 0.0209621
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 73: 0.135867
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 74: 0.578227
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 75: 0.919826
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 76: 0.150588
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 77: 0.734575
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 78: 0.657765
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 79: 0.894159
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 80: 0.111918
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 81: 0.271818
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 82: 0.378833
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 83: 0.134897
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 84: 0.837465
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 85: 0.880901
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 86: 0.446832
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 87: 0.247102
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 88: 0.343861
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 89: 0.499568
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 90: 0.76614
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 91: 0.538085
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 92: 0.461138
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 93: 0.84933
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 94: 0.274309
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 95: 0.191795
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 96: 0.22664
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 97: 0.659013
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 98: 0.724848
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 99: 0.950673
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 100: 0.847772
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 101: 0.689223
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 102: 0.841841
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 103: 0.291022
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 104: 0.445604
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 105: 0.23409
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 106: 0.138986
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 107: 0.540035
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 108: 0.229268
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 109: 0.478305
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 110: 0.780036
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 111: 0.785959
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 112: 0.896148
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 113: 0.639837
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 114: 0.0556841
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 115: 0.154984
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 116: 0.800086
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 117: 0.752462
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 118: 0.877403
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 119: 0.0511133
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 120: 0.499375
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 121: 0.858429
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 122: 0.0579355
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 123: 0.756833
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 124: 0.135181
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 125: 0.754786
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 126: 0.0231958
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 127: 0.488736
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 128: 0.47875
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 129: 0.802805
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 130: 0.953204
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 131: 0.217728
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 132: 0.0141049
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 133: 0.782004
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 134: 0.909928
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 135: 0.685858
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 136: 0.774302
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 137: 0.785274
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 138: 0.798152
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 139: 0.480246
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 140: 0.00924585
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 141: 0.00721256
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 142: 0.596032
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 143: 0.930443
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 144: 0.868995
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 145: 0.485325
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 146: 0.800065
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 147: 0.35217
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 148: 0.372432
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 149: 0.95834
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 150: 0.0822893
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 151: 0.657958
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 152: 0.272936
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 153: 0.023111
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 154: 0.904431
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 155: 0.334878
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 156: 0.743526
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 157: 0.155774
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 158: 0.922999
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 159: 0.00633146
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 160: 0.580971
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 161: 0.331423
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 162: 0.930829
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 163: 0.538114
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 164: 0.0288529
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 165: 0.547264
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 166: 0.546065
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 167: 0.55932
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 168: 0.913061
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 169: 0.717184
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 170: 0.164607
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 171: 0.0269928
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 172: 0.456348
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 173: 0.646851
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 174: 0.753104
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 175: 0.561795
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 176: 0.6586
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 177: 0.645954
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 178: 0.941515
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 179: 0.573578
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 180: 0.511467
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 181: 0.774814
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 182: 0.999316
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 183: 0.645687
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 184: 0.0863934
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 185: 0.533776
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 186: 0.28574
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 187: 0.118875
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 188: 0.436067
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 189: 0.871238
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 190: 0.433921
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 191: 0.553033
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 192: 0.804753
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 193: 0.770351
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 194: 0.903442
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 195: 0.775722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 196: 0.785764
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 197: 0.619222
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 198: 0.801181
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 199: 0.620446
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 200: 0.151683
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 201: 0.816805
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 202: 0.730968
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 203: 0.868444
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 204: 0.0402414
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 205: 0.428234
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 206: 0.520727
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 207: 0.786386
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 208: 0.0284177
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 209: 0.138805
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 210: 0.148443
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 211: 0.93539
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 212: 0.823189
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 213: 0.916052
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 214: 0.637635
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 215: 0.190046
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 216: 0.531392
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 217: 0.31539
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 218: 0.0963639
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 219: 0.0906841
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 220: 0.119633
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 221: 0.384531
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 222: 0.638682
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 223: 0.759507
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 224: 0.181422
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 225: 0.03138
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 226: 0.70197
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 227: 0.315815
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 228: 0.691033
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 229: 0.877882
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 230: 0.27977
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 231: 0.0488158
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 232: 0.285691
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 233: 0.761981
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 234: 0.795797
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 235: 0.378224
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 236: 0.313048
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 237: 0.680726
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 238: 0.44506
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 239: 0.996938
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 240: 0.343916
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 241: 0.419217
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 242: 0.26028
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 243: 0.0833348
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 244: 0.429871
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 245: 0.436485
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 246: 0.727663
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 247: 0.442467
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 248: 0.277868
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 249: 0.639331
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 250: 0.806643
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 251: 0.455383
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 252: 0.274242
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 253: 0.379495
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 254: 0.209351
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 255: 0.235815
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 256: 0.579773
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 257: 0.385846
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 258: 0.0163438
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 259: 0.31049
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 260: 0.736612
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 261: 0.198703
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 262: 0.0402512
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 263: 0.796328
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 264: 0.249062
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 265: 0.357932
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 266: 0.825997
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 267: 0.701759
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 268: 0.469808
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 269: 0.648927
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 270: 0.20517
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 271: 0.401668
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 272: 0.476742
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 273: 0.901686
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 274: 0.254486
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 275: 0.201098
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 276: 0.363901
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 277: 0.120561
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 278: 0.833656
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 279: 0.218022
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 280: 0.678493
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 281: 0.315634
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 282: 0.384745
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 283: 0.720271
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 284: 0.783579
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 285: 0.496746
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 286: 0.204395
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 287: 0.213421
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 288: 0.764134
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 289: 0.507494
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 290: 0.75317
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 291: 0.593221
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 292: 0.127059
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 293: 0.342963
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 294: 0.141337
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 295: 0.0466156
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 296: 0.544272
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 297: 0.618669
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 298: 0.432234
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 299: 0.363964
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 300: 0.318307
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 301: 0.205979
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 302: 0.137239
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 303: 0.523468
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 304: 0.953705
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 305: 0.215389
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 306: 0.548919
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 307: 0.733045
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 308: 0.341532
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 309: 0.123416
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 310: 0.407031
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 311: 0.144561
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 312: 0.943502
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 313: 0.567712
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 314: 0.54262
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 315: 0.303938
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 316: 0.681937
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 317: 0.730363
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 318: 0.949595
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 319: 0.994722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 320: 0.970353
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 321: 0.342552
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 322: 0.177278
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 323: 0.0899668
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 324: 0.313905
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 325: 0.863906
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 326: 0.267164
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 327: 0.955925
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 328: 0.207855
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 329: 0.576202
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 330: 0.195433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 331: 0.880786
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 332: 0.819931
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 333: 0.0151981
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 334: 0.398924
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 335: 0.959163
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 336: 0.15011
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 337: 0.294614
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 338: 0.513629
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 339: 0.590841
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 340: 0.36883
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 341: 0.732994
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 342: 0.245303
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 343: 0.542813
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 344: 0.20921
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 345: 0.835964
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 346: 0.402059
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 347: 0.984735
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 348: 0.133339
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 349: 0.118058
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 350: 0.33794
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 351: 0.0964001
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 352: 0.312183
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 353: 0.746288
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 354: 0.395839
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 355: 0.866313
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 356: 0.0464663
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 357: 0.532521
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 358: 0.528964
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 359: 0.476199
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 360: 0.742018
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 361: 0.739208
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 362: 0.84145
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 363: 0.691124
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 364: 0.38427
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 365: 0.330144
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 366: 0.51403
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 367: 0.02261
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 368: 0.0796614
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 369: 0.928851
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 370: 0.00626162
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 371: 0.411967
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 372: 0.525987
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 373: 0.213104
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 374: 0.729013
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 375: 0.853627
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 376: 0.960364
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 377: 0.386355
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 378: 0.594623
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 379: 0.331395
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 380: 0.651559
+Adicionando item de peso 0 e valor 0
+Peso total na mochila: 50
+Valor total na mochila: 59
+Arquivo: Entrada_1.txt
+Valor total na mochila: 59 dinheiros
+Tempo de execução: 0.000642178 segundos
+----------------------------
+Probabilidade gerada para o item 1: 0.0872735
+Ignorando item de peso 12 e valor 12 com base na probabilidade
+Probabilidade gerada para o item 2: 0.268744
+Ignorando item de peso 71 e valor 18 com base na probabilidade
+Probabilidade gerada para o item 3: 0.621576
+Adicionando item de peso 32 e valor 48
+Probabilidade gerada para o item 4: 0.170627
+Ignorando item de peso 57 e valor 24 com base na probabilidade
+Probabilidade gerada para o item 5: 0.539595
+Ignorando item de peso 66 por exceder a capacidade
+Probabilidade gerada para o item 6: 0.791495
+Adicionando item de peso 41 e valor 44
+Probabilidade gerada para o item 7: 0.571293
+Ignorando item de peso 61 por exceder a capacidade
+Probabilidade gerada para o item 8: 0.187651
+Ignorando item de peso 32 e valor 11 com base na probabilidade
+Probabilidade gerada para o item 9: 0.467159
+Ignorando item de peso 9 e valor 50 com base na probabilidade
+Probabilidade gerada para o item 10: 0.419271
+Ignorando item de peso 56 e valor 60 com base na probabilidade
+Probabilidade gerada para o item 11: 0.400775
+Ignorando item de peso 37 e valor 18 com base na probabilidade
+Probabilidade gerada para o item 12: 0.0698105
+Ignorando item de peso 38 e valor 56 com base na probabilidade
+Probabilidade gerada para o item 13: 0.0651641
+Ignorando item de peso 76 e valor 27 com base na probabilidade
+Probabilidade gerada para o item 14: 0.278147
+Ignorando item de peso 31 e valor 32 com base na probabilidade
+Probabilidade gerada para o item 15: 0.179115
+Ignorando item de peso 73 e valor 15 com base na probabilidade
+Probabilidade gerada para o item 16: 0.855852
+Ignorando item de peso 42 por exceder a capacidade
+Probabilidade gerada para o item 17: 0.0686693
+Ignorando item de peso 65 e valor 36 com base na probabilidade
+Probabilidade gerada para o item 18: 0.222358
+Ignorando item de peso 73 e valor 23 com base na probabilidade
+Probabilidade gerada para o item 19: 0.700696
+Ignorando item de peso 64 por exceder a capacidade
+Probabilidade gerada para o item 20: 0.250997
+Ignorando item de peso 19 e valor 62 com base na probabilidade
+Probabilidade gerada para o item 21: 0.7813
+Ignorando item de peso 74 por exceder a capacidade
+Probabilidade gerada para o item 22: 0.294681
+Ignorando item de peso 24 e valor 20 com base na probabilidade
+Probabilidade gerada para o item 23: 0.582405
+Ignorando item de peso 62 por exceder a capacidade
+Probabilidade gerada para o item 24: 0.832018
+Ignorando item de peso 46 por exceder a capacidade
+Probabilidade gerada para o item 25: 0.348497
+Ignorando item de peso 7 e valor 43 com base na probabilidade
+Probabilidade gerada para o item 26: 0.0595993
+Ignorando item de peso 43 e valor 13 com base na probabilidade
+Probabilidade gerada para o item 27: 0.961619
+Ignorando item de peso 55 por exceder a capacidade
+Probabilidade gerada para o item 28: 0.612632
+Ignorando item de peso 77 por exceder a capacidade
+Probabilidade gerada para o item 29: 0.0970466
+Ignorando item de peso 60 e valor 10 com base na probabilidade
+Probabilidade gerada para o item 30: 0.274201
+Ignorando item de peso 28 e valor 49 com base na probabilidade
+Probabilidade gerada para o item 31: 0.822343
+Ignorando item de peso 64 por exceder a capacidade
+Probabilidade gerada para o item 32: 0.506341
+Ignorando item de peso 19 por exceder a capacidade
+Probabilidade gerada para o item 33: 0.980518
+Ignorando item de peso 79 por exceder a capacidade
+Probabilidade gerada para o item 34: 0.189774
+Ignorando item de peso 20 e valor 59 com base na probabilidade
+Probabilidade gerada para o item 35: 0.175016
+Ignorando item de peso 53 e valor 10 com base na probabilidade
+Probabilidade gerada para o item 36: 0.580326
+Ignorando item de peso 49 por exceder a capacidade
+Probabilidade gerada para o item 37: 0.620815
+Ignorando item de peso 59 por exceder a capacidade
+Probabilidade gerada para o item 38: 0.488051
+Ignorando item de peso 24 e valor 42 com base na probabilidade
+Probabilidade gerada para o item 39: 0.892298
+Ignorando item de peso 73 por exceder a capacidade
+Probabilidade gerada para o item 40: 0.989565
+Ignorando item de peso 52 por exceder a capacidade
+Probabilidade gerada para o item 41: 0.476833
+Ignorando item de peso 9 e valor 65 com base na probabilidade
+Probabilidade gerada para o item 42: 0.844917
+Ignorando item de peso 49 por exceder a capacidade
+Probabilidade gerada para o item 43: 0.105776
+Ignorando item de peso 64 e valor 49 com base na probabilidade
+Probabilidade gerada para o item 44: 0.671065
+Ignorando item de peso 58 por exceder a capacidade
+Probabilidade gerada para o item 45: 0.622215
+Ignorando item de peso 5 por exceder a capacidade
+Probabilidade gerada para o item 46: 0.247409
+Ignorando item de peso 57 e valor 39 com base na probabilidade
+Probabilidade gerada para o item 47: 0.603761
+Ignorando item de peso 76 por exceder a capacidade
+Probabilidade gerada para o item 48: 0.47879
+Ignorando item de peso 72 e valor 36 com base na probabilidade
+Probabilidade gerada para o item 49: 0.894114
+Ignorando item de peso 51 por exceder a capacidade
+Probabilidade gerada para o item 50: 0.285652
+Ignorando item de peso 53 e valor 40 com base na probabilidade
+Probabilidade gerada para o item 51: 0.773181
+Ignorando item de peso 52 por exceder a capacidade
+Probabilidade gerada para o item 52: 0.883862
+Ignorando item de peso 32 por exceder a capacidade
+Probabilidade gerada para o item 53: 0.456756
+Ignorando item de peso 27 e valor 54 com base na probabilidade
+Probabilidade gerada para o item 54: 0.989755
+Ignorando item de peso 22 por exceder a capacidade
+Probabilidade gerada para o item 55: 0.371373
+Ignorando item de peso 40 e valor 3 com base na probabilidade
+Probabilidade gerada para o item 56: 0.406731
+Ignorando item de peso 32 e valor 23 com base na probabilidade
+Probabilidade gerada para o item 57: 0.937063
+Ignorando item de peso 14 por exceder a capacidade
+Probabilidade gerada para o item 58: 0.16637
+Ignorando item de peso 76 e valor 14 com base na probabilidade
+Probabilidade gerada para o item 59: 0.548327
+Ignorando item de peso 58 por exceder a capacidade
+Probabilidade gerada para o item 60: 0.573903
+Ignorando item de peso 29 por exceder a capacidade
+Probabilidade gerada para o item 61: 0.259088
+Ignorando item de peso 24 e valor 24 com base na probabilidade
+Probabilidade gerada para o item 62: 0.781656
+Ignorando item de peso 13 por exceder a capacidade
+Probabilidade gerada para o item 63: 0.138234
+Ignorando item de peso 39 e valor 46 com base na probabilidade
+Probabilidade gerada para o item 64: 0.57118
+Ignorando item de peso 20 por exceder a capacidade
+Probabilidade gerada para o item 65: 0.0980068
+Ignorando item de peso 63 e valor 39 com base na probabilidade
+Probabilidade gerada para o item 66: 0.538791
+Ignorando item de peso 69 por exceder a capacidade
+Probabilidade gerada para o item 67: 0.243709
+Ignorando item de peso 78 e valor 3 com base na probabilidade
+Probabilidade gerada para o item 68: 0.612856
+Ignorando item de peso 45 por exceder a capacidade
+Probabilidade gerada para o item 69: 0.0386585
+Ignorando item de peso 19 e valor 51 com base na probabilidade
+Probabilidade gerada para o item 70: 0.23108
+Ignorando item de peso 9 e valor 28 com base na probabilidade
+Probabilidade gerada para o item 71: 0.661494
+Ignorando item de peso 24 por exceder a capacidade
+Probabilidade gerada para o item 72: 0.471893
+Ignorando item de peso 32 e valor 11 com base na probabilidade
+Probabilidade gerada para o item 73: 0.513757
+Ignorando item de peso 7 por exceder a capacidade
+Probabilidade gerada para o item 74: 0.524466
+Ignorando item de peso 79 por exceder a capacidade
+Probabilidade gerada para o item 75: 0.17184
+Ignorando item de peso 9 e valor 63 com base na probabilidade
+Probabilidade gerada para o item 76: 0.693862
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 77: 0.163606
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 78: 0.303069
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 79: 0.0386
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 80: 0.880372
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 81: 0.242005
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 82: 0.230049
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 83: 0.991069
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 84: 0.631573
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 85: 0.640718
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 86: 0.389252
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 87: 0.483095
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 88: 0.286945
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 89: 0.894601
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 90: 0.958883
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 91: 0.574539
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 92: 0.0439826
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 93: 0.297236
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 94: 0.719084
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 95: 0.28602
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 96: 0.916511
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 97: 0.342096
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 98: 0.693979
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 99: 0.0181119
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 100: 0.190593
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 101: 0.0917135
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 102: 0.0849454
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 103: 0.914646
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 104: 0.730469
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 105: 0.427498
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 106: 0.48097
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 107: 0.727673
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 108: 0.00656988
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 109: 0.29618
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 110: 0.45467
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 111: 0.975494
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 112: 0.492716
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 113: 0.616047
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 114: 0.0792571
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 115: 0.0889526
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 116: 0.592911
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 117: 0.522968
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 118: 0.145954
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 119: 0.155244
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 120: 0.26015
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 121: 0.47519
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 122: 0.926089
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 123: 0.95889
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 124: 0.677679
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 125: 0.343979
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 126: 0.477949
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 127: 0.725711
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 128: 0.549085
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 129: 0.943914
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 130: 0.522731
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 131: 0.479732
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 132: 0.620246
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 133: 0.581492
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 134: 0.79663
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 135: 0.536298
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 136: 0.802617
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 137: 0.612595
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 138: 0.8971
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 139: 0.237442
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 140: 0.161501
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 141: 0.759045
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 142: 0.645721
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 143: 0.757434
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 144: 0.470068
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 145: 0.764772
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 146: 0.241621
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 147: 0.702353
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 148: 0.212066
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 149: 0.480567
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 150: 0.323211
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 151: 0.29271
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 152: 0.869065
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 153: 0.00793196
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 154: 0.719548
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 155: 0.895202
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 156: 0.57283
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 157: 0.623009
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 158: 0.659082
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 159: 0.263627
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 160: 0.929702
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 161: 0.376124
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 162: 0.0332614
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 163: 0.431227
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 164: 0.49658
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 165: 0.155126
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 166: 0.75371
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 167: 0.701491
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 168: 0.196455
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 169: 0.193879
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 170: 0.992619
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 171: 0.0469825
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 172: 0.409948
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 173: 0.139843
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 174: 0.815652
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 175: 0.227648
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 176: 0.667478
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 177: 0.244321
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 178: 0.835889
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 179: 0.796271
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 180: 0.315366
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 181: 0.190628
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 182: 0.0546716
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 183: 0.038314
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 184: 0.390007
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 185: 0.594751
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 186: 0.815664
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 187: 0.0832943
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 188: 0.826143
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 189: 0.00285924
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 190: 0.249085
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 191: 0.321882
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 192: 0.408157
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 193: 0.0897086
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 194: 0.344176
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 195: 0.305864
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 196: 0.601325
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 197: 0.706411
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 198: 0.16433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 199: 0.634702
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 200: 0.518482
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 201: 0.321396
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 202: 0.745342
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 203: 0.94082
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 204: 0.7511
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 205: 0.775137
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 206: 0.135668
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 207: 0.620023
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 208: 0.217114
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 209: 0.180491
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 210: 0.808353
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 211: 0.143937
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 212: 0.605219
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 213: 0.284958
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 214: 0.784225
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 215: 0.773797
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 216: 0.458719
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 217: 0.350268
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 218: 0.30335
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 219: 0.206514
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 220: 0.838098
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 221: 0.175303
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 222: 0.327855
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 223: 0.308423
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 224: 0.785398
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 225: 0.708876
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 226: 0.528918
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 227: 0.856544
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 228: 0.12419
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 229: 0.0816401
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 230: 0.59293
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 231: 0.898264
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 232: 0.978696
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 233: 0.265085
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 234: 0.560538
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 235: 0.811325
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 236: 0.275022
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 237: 0.74996
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 238: 0.541534
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 239: 0.141323
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Peso total na mochila: 73
+Valor total na mochila: 92
+Arquivo: Entrada_2.txt
+Valor total na mochila: 92 dinheiros
+Tempo de execução: 0.00038751 segundos
+----------------------------
+Probabilidade gerada para o item 1: 0.112041
+Ignorando item de peso 8 e valor 91 com base na probabilidade
+Probabilidade gerada para o item 2: 0.448932
+Ignorando item de peso 7 e valor 60 com base na probabilidade
+Probabilidade gerada para o item 3: 0.425757
+Ignorando item de peso 10 e valor 63 com base na probabilidade
+Probabilidade gerada para o item 4: 0.805781
+Adicionando item de peso 4 e valor 40
+Probabilidade gerada para o item 5: 0.467049
+Ignorando item de peso 5 e valor 16 com base na probabilidade
+Probabilidade gerada para o item 6: 0.516035
+Adicionando item de peso 3 e valor 48
+Probabilidade gerada para o item 7: 0.927762
+Adicionando item de peso 8 e valor 14
+Probabilidade gerada para o item 8: 0.144288
+Ignorando item de peso 7 e valor 41 com base na probabilidade
+Probabilidade gerada para o item 9: 0.547523
+Adicionando item de peso 3 e valor 2
+Probabilidade gerada para o item 10: 0.672169
+Adicionando item de peso 10 e valor 84
+Probabilidade gerada para o item 11: 0.77837
+Adicionando item de peso 8 e valor 19
+Probabilidade gerada para o item 12: 0.644109
+Adicionando item de peso 7 e valor 35
+Probabilidade gerada para o item 13: 0.14722
+Ignorando item de peso 5 e valor 85 com base na probabilidade
+Probabilidade gerada para o item 14: 0.532743
+Adicionando item de peso 7 e valor 33
+Probabilidade gerada para o item 15: 0.4275
+Ignorando item de peso 5 e valor 93 com base na probabilidade
+Probabilidade gerada para o item 16: 0.721776
+Adicionando item de peso 2 e valor 93
+Probabilidade gerada para o item 17: 0.770119
+Adicionando item de peso 7 e valor 4
+Probabilidade gerada para o item 18: 0.877646
+Adicionando item de peso 3 e valor 82
+Probabilidade gerada para o item 19: 0.312748
+Ignorando item de peso 5 e valor 4 com base na probabilidade
+Probabilidade gerada para o item 20: 0.947076
+Ignorando item de peso 7 por exceder a capacidade
+Probabilidade gerada para o item 21: 0.833327
+Adicionando item de peso 3 e valor 37
+Probabilidade gerada para o item 22: 0.101717
+Ignorando item de peso 3 e valor 51 com base na probabilidade
+Probabilidade gerada para o item 23: 0.659741
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 24: 0.635595
+Ignorando item de peso 7 por exceder a capacidade
+Probabilidade gerada para o item 25: 0.282332
+Ignorando item de peso 10 e valor 34 com base na probabilidade
+Probabilidade gerada para o item 26: 0.352917
+Ignorando item de peso 9 e valor 64 com base na probabilidade
+Probabilidade gerada para o item 27: 0.932655
+Ignorando item de peso 4 por exceder a capacidade
+Probabilidade gerada para o item 28: 0.508978
+Ignorando item de peso 4 por exceder a capacidade
+Probabilidade gerada para o item 29: 0.0287326
+Ignorando item de peso 9 e valor 14 com base na probabilidade
+Probabilidade gerada para o item 30: 0.596534
+Ignorando item de peso 5 por exceder a capacidade
+Probabilidade gerada para o item 31: 0.991699
+Ignorando item de peso 4 por exceder a capacidade
+Probabilidade gerada para o item 32: 0.480308
+Ignorando item de peso 2 e valor 78 com base na probabilidade
+Probabilidade gerada para o item 33: 0.108142
+Ignorando item de peso 8 e valor 9 com base na probabilidade
+Probabilidade gerada para o item 34: 0.448209
+Ignorando item de peso 6 e valor 80 com base na probabilidade
+Probabilidade gerada para o item 35: 0.430178
+Ignorando item de peso 3 e valor 81 com base na probabilidade
+Probabilidade gerada para o item 36: 0.747468
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 37: 0.213025
+Ignorando item de peso 3 e valor 18 com base na probabilidade
+Probabilidade gerada para o item 38: 0.805811
+Ignorando item de peso 2 por exceder a capacidade
+Probabilidade gerada para o item 39: 0.616847
+Ignorando item de peso 6 por exceder a capacidade
+Probabilidade gerada para o item 40: 0.738464
+Ignorando item de peso 8 por exceder a capacidade
+Probabilidade gerada para o item 41: 0.486058
+Ignorando item de peso 5 e valor 4 com base na probabilidade
+Probabilidade gerada para o item 42: 0.0431483
+Ignorando item de peso 7 e valor 69 com base na probabilidade
+Probabilidade gerada para o item 43: 0.679232
+Ignorando item de peso 9 por exceder a capacidade
+Probabilidade gerada para o item 44: 0.735899
+Ignorando item de peso 9 por exceder a capacidade
+Probabilidade gerada para o item 45: 0.209263
+Ignorando item de peso 8 e valor 87 com base na probabilidade
+Probabilidade gerada para o item 46: 0.393156
+Ignorando item de peso 4 e valor 39 com base na probabilidade
+Probabilidade gerada para o item 47: 0.700977
+Ignorando item de peso 6 por exceder a capacidade
+Probabilidade gerada para o item 48: 0.817184
+Ignorando item de peso 2 por exceder a capacidade
+Probabilidade gerada para o item 49: 0.604161
+Ignorando item de peso 4 por exceder a capacidade
+Probabilidade gerada para o item 50: 0.433769
+Ignorando item de peso 4 e valor 24 com base na probabilidade
+Probabilidade gerada para o item 51: 0.235318
+Ignorando item de peso 7 e valor 40 com base na probabilidade
+Probabilidade gerada para o item 52: 0.024808
+Ignorando item de peso 2 e valor 98 com base na probabilidade
+Probabilidade gerada para o item 53: 0.591912
+Ignorando item de peso 5 por exceder a capacidade
+Probabilidade gerada para o item 54: 0.845248
+Ignorando item de peso 4 por exceder a capacidade
+Probabilidade gerada para o item 55: 0.582098
+Ignorando item de peso 3 por exceder a capacidade
+Probabilidade gerada para o item 56: 0.558917
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 57: 0.982448
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 58: 0.168724
+Ignorando item de peso 7 e valor 4 com base na probabilidade
+Probabilidade gerada para o item 59: 0.861654
+Ignorando item de peso 9 por exceder a capacidade
+Probabilidade gerada para o item 60: 0.864795
+Ignorando item de peso 6 por exceder a capacidade
+Probabilidade gerada para o item 61: 0.461631
+Ignorando item de peso 4 e valor 35 com base na probabilidade
+Probabilidade gerada para o item 62: 0.971672
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 63: 0.571599
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 64: 0.986746
+Ignorando item de peso 10 por exceder a capacidade
+Probabilidade gerada para o item 65: 0.197937
+Ignorando item de peso 8 e valor 97 com base na probabilidade
+Probabilidade gerada para o item 66: 0.0493014
+Ignorando item de peso 5 e valor 83 com base na probabilidade
+Probabilidade gerada para o item 67: 0.601158
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 68: 0.0820021
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 69: 0.281769
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 70: 0.330215
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 71: 0.215943
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 72: 0.825931
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 73: 0.691355
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 74: 0.244651
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 75: 0.112573
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 76: 0.37345
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 77: 0.772775
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 78: 0.355711
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 79: 0.609212
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 80: 0.631317
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 81: 0.395028
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 82: 0.466826
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 83: 0.889801
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 84: 0.557385
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 85: 0.494729
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 86: 0.370618
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 87: 0.48586
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 88: 0.637842
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 89: 0.993006
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 90: 0.330686
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 91: 0.0669341
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 92: 0.280906
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 93: 0.443201
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 94: 0.183677
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 95: 0.381762
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 96: 0.466806
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 97: 0.073688
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 98: 0.4948
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 99: 0.557859
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 100: 0.80024
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 101: 0.320366
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 102: 0.127564
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 103: 0.177934
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 104: 0.792982
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 105: 0.434478
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 106: 0.715683
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 107: 0.120168
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 108: 0.0396874
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 109: 0.314729
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 110: 0.263433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 111: 0.0197381
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 112: 0.508213
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 113: 0.322913
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 114: 0.786665
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 115: 0.912952
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 116: 0.220886
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 117: 0.699542
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 118: 0.168191
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 119: 0.851832
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 120: 0.381511
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 121: 0.752775
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 122: 0.517594
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 123: 0.389288
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 124: 0.361939
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 125: 0.798618
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 126: 0.837459
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 127: 0.217201
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 128: 0.743745
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 129: 0.240433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 130: 0.152679
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 131: 0.900992
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 132: 0.893159
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 133: 0.121446
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 134: 0.385946
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 135: 0.652087
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 136: 0.496152
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 137: 0.881776
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 138: 0.898451
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 139: 0.175786
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 140: 0.903298
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 141: 0.871646
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 142: 0.240069
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 143: 0.74587
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 144: 0.180242
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 145: 0.275005
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 146: 0.104614
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 147: 0.221355
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 148: 0.658984
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 149: 0.389115
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 150: 0.682502
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 151: 0.449481
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 152: 0.365209
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 153: 0.708208
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 154: 0.283382
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 155: 0.776047
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 156: 0.697423
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 157: 0.673675
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 158: 0.26638
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 159: 0.127123
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 160: 0.421841
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 161: 0.095241
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 162: 0.319964
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 163: 0.950549
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 164: 0.649823
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 165: 0.33736
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 166: 0.0368675
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 167: 0.0419312
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 168: 0.283127
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 169: 0.0966417
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 170: 0.116672
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 171: 0.43473
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 172: 0.421706
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 173: 0.881424
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 174: 0.72088
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 175: 0.74635
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 176: 0.539906
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 177: 0.936501
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 178: 0.561024
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 179: 0.492033
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 180: 0.524622
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 181: 0.144589
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 182: 0.0340819
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 183: 0.487785
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 184: 0.194428
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 185: 0.365599
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 186: 0.669373
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 187: 0.845367
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 188: 0.766373
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 189: 0.11434
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 190: 0.614475
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 191: 0.220294
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 192: 0.165087
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 193: 0.911932
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 194: 0.197616
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 195: 0.62604
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 196: 0.263373
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 197: 0.26697
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 198: 0.733023
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 199: 0.0795657
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 200: 0.70887
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 201: 0.441232
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 202: 0.331135
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 203: 0.712422
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 204: 0.357825
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 205: 0.829763
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 206: 0.237385
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 207: 0.234406
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 208: 0.285154
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 209: 0.755846
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 210: 0.270189
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 211: 0.108164
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 212: 0.511039
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 213: 0.412156
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 214: 0.110372
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 215: 0.248897
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 216: 0.599172
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 217: 0.281939
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 218: 0.0925755
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 219: 0.312205
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 220: 0.204262
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 221: 0.100363
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 222: 0.0759055
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 223: 0.231164
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 224: 0.237979
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 225: 0.75929
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 226: 0.175281
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 227: 0.306192
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 228: 0.0582195
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 229: 0.390746
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 230: 0.933341
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 231: 0.52461
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 232: 0.256284
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 233: 0.816584
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 234: 0.485242
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 235: 0.263871
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 236: 0.041719
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 237: 0.326102
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 238: 0.961083
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 239: 0.0857277
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 240: 0.267189
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 241: 0.49345
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 242: 0.64157
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 243: 0.526444
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 244: 0.85816
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 245: 0.992228
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 246: 0.407294
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 247: 0.249773
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 248: 0.920631
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 249: 0.384904
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 250: 0.0860396
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 251: 0.459963
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 252: 0.908369
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 253: 0.795654
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 254: 0.0204445
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 255: 0.0904275
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 256: 0.490808
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 257: 0.431815
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 258: 0.335178
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 259: 0.52757
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 260: 0.45718
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 261: 0.727096
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 262: 0.554647
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 263: 0.569248
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 264: 0.450793
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 265: 0.436561
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 266: 0.160717
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 267: 0.452922
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 268: 0.143485
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 269: 0.629961
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 270: 0.540139
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 271: 0.818749
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 272: 0.873093
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 273: 0.975283
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 274: 0.985203
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 275: 0.321634
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 276: 0.626155
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 277: 0.682973
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 278: 0.801599
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 279: 0.514064
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 280: 0.463076
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 281: 0.687615
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 282: 0.0772879
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 283: 0.673598
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 284: 0.13272
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 285: 0.581987
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 286: 0.78706
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 287: 0.498214
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 288: 0.325479
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 289: 0.407837
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 290: 0.719094
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 291: 0.0838254
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 292: 0.405752
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 293: 0.847133
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 294: 0.724521
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 295: 0.564319
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 296: 0.341582
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 297: 0.636686
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 298: 0.708309
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 299: 0.702785
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 300: 0.244896
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 301: 0.764631
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 302: 0.361321
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 303: 0.665827
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 304: 0.805342
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 305: 0.136822
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 306: 0.151653
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 307: 0.171261
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 308: 0.345009
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 309: 0.672272
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 310: 0.0128699
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 311: 0.291916
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 312: 0.864173
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 313: 0.886143
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 314: 0.198675
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 315: 0.711276
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 316: 0.691441
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 317: 0.868903
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 318: 0.825157
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 319: 0.884677
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 320: 0.991037
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 321: 0.749041
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 322: 0.17137
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 323: 0.00759838
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 324: 0.57271
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 325: 0.203998
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 326: 0.408031
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 327: 0.452162
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 328: 0.925532
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 329: 0.190165
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 330: 0.921749
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 331: 0.405027
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 332: 0.375984
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 333: 0.459643
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 334: 0.369898
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 335: 0.528635
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 336: 0.108456
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 337: 0.621496
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 338: 0.7046
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 339: 0.530566
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 340: 0.408509
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 341: 0.83322
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 342: 0.707053
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 343: 0.86036
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 344: 0.0577201
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 345: 0.748411
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 346: 0.553741
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 347: 0.215109
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 348: 0.0341597
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 349: 0.824556
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 350: 0.60106
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 351: 0.425552
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 352: 0.792549
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 353: 0.297761
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 354: 0.378174
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 355: 0.795086
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 356: 0.665563
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 357: 0.848184
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 358: 0.0861217
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 359: 0.701987
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 360: 0.813982
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 361: 0.839612
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 362: 0.345752
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 363: 0.901005
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 364: 0.854442
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 365: 0.843213
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 366: 0.137571
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 367: 0.0180279
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 368: 0.350501
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 369: 0.540421
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 370: 0.795691
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 371: 0.662959
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 372: 0.866686
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 373: 0.684795
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 374: 0.400837
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 375: 0.297805
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 376: 0.638687
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 377: 0.298644
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 378: 0.995996
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 379: 0.75367
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 380: 0.887678
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 381: 0.331196
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 382: 0.355549
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 383: 0.672495
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 384: 0.367864
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 385: 0.480286
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 386: 0.514813
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 387: 0.325979
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 388: 0.316032
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 389: 0.750351
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 390: 0.0270995
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 391: 0.0282515
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 392: 0.88067
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 393: 0.420161
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 394: 0.0293001
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 395: 0.152116
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 396: 0.237805
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 397: 0.167441
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 398: 0.818664
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 399: 0.888793
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 400: 0.925109
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 401: 0.9039
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 402: 0.150915
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 403: 0.499902
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 404: 0.826956
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 405: 0.808065
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 406: 0.250637
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 407: 0.847435
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 408: 0.516012
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 409: 0.845475
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 410: 0.490304
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 411: 0.703515
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 412: 0.471335
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 413: 0.622534
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 414: 0.329422
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 415: 0.927988
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 416: 0.768241
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 417: 0.0616481
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 418: 0.425802
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 419: 0.891306
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 420: 0.92393
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 421: 0.76333
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 422: 0.830079
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 423: 0.31561
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 424: 0.0680663
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 425: 0.778892
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 426: 0.92338
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 427: 0.706948
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 428: 0.957251
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 429: 0.586088
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 430: 0.069688
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 431: 0.517586
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 432: 0.241164
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 433: 0.371111
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 434: 0.964058
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 435: 0.436941
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 436: 0.619308
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 437: 0.623694
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 438: 0.0107692
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 439: 0.912748
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 440: 0.336753
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 441: 0.66278
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 442: 0.216681
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 443: 0.719012
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 444: 0.456573
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 445: 0.551959
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 446: 0.223603
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 447: 0.581464
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 448: 0.839683
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 449: 0.992766
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 450: 0.23913
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 451: 0.545172
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 452: 0.434045
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 453: 0.911017
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 454: 0.30681
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 455: 0.189447
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 456: 0.851568
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 457: 0.334169
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 458: 0.913561
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 459: 0.843786
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 460: 0.362076
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 461: 0.0277017
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 462: 0.272768
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 463: 0.16378
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 464: 0.38788
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 465: 0.82439
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 466: 0.739791
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 467: 0.460982
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 468: 0.54938
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 469: 0.593695
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 470: 0.568111
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 471: 0.64878
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 472: 0.714161
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 473: 0.147722
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 474: 0.141516
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 475: 0.524949
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 476: 0.544331
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 477: 0.865461
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 478: 0.329787
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 479: 0.428955
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 480: 0.706432
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 481: 0.72622
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 482: 0.861161
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 483: 0.904928
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 484: 0.640657
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 485: 0.823452
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 486: 0.978346
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 487: 0.373333
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 488: 0.33287
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 489: 0.862739
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 490: 0.883891
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 491: 0.740531
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 492: 0.996958
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 493: 0.181237
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 494: 0.663464
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 495: 0.38437
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 496: 0.77041
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 497: 0.756309
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 498: 0.113791
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 499: 0.520369
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 500: 0.698025
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 501: 0.0997781
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 502: 0.28958
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 503: 0.0594306
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 504: 0.3963
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 505: 0.0310479
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 506: 0.452248
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 507: 0.327374
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 508: 0.839119
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 509: 0.663382
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 510: 0.54722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 511: 0.423346
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 512: 0.799592
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 513: 0.51979
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 514: 0.303126
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 515: 0.224423
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 516: 0.965911
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 517: 0.694392
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 518: 0.829238
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 519: 0.568566
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 520: 0.889337
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 521: 0.29555
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 522: 0.667278
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 523: 0.196809
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 524: 0.0994913
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 525: 0.955089
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 526: 0.19508
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 527: 0.747196
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 528: 0.325117
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 529: 0.705796
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 530: 0.900316
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 531: 0.0836777
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 532: 0.492508
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 533: 0.280521
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 534: 0.690312
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 535: 0.606686
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 536: 0.265306
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 537: 0.0305831
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 538: 0.459057
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 539: 0.885936
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 540: 0.494938
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 541: 0.720033
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 542: 0.0780982
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 543: 0.209502
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 544: 0.400282
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 545: 0.8413
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 546: 0.858177
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 547: 0.300299
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 548: 0.142842
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 549: 0.0288077
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 550: 0.61952
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 551: 0.851615
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 552: 0.920103
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 553: 0.779365
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 554: 0.877727
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 555: 0.868772
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 556: 0.806257
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 557: 0.413891
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 558: 0.761127
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 559: 0.652377
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 560: 0.186469
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 561: 0.779445
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 562: 0.489024
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 563: 0.0698735
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 564: 0.360914
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 565: 0.295459
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 566: 0.72023
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 567: 0.386463
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 568: 0.943929
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 569: 0.563221
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 570: 0.522457
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 571: 0.949274
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 572: 0.0618252
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 573: 0.265745
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 574: 0.80025
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 575: 0.420348
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 576: 0.81648
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 577: 0.109662
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 578: 0.259773
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 579: 0.891819
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 580: 0.459951
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 581: 0.890779
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 582: 0.507268
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 583: 0.804987
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 584: 0.41142
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 585: 0.29634
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 586: 0.334766
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 587: 0.732586
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 588: 0.670261
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 589: 0.0249107
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 590: 0.354127
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 591: 0.89895
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 592: 0.854439
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 593: 0.830917
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 594: 0.974064
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 595: 0.498068
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 596: 0.607525
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 597: 0.846246
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 598: 0.712302
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 599: 0.636637
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 600: 0.379037
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 601: 0.999229
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 602: 0.793988
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 603: 0.18806
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 604: 0.0510544
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 605: 0.0183488
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 606: 0.143351
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 607: 0.113437
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 608: 0.394786
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 609: 0.998048
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 610: 0.214695
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 611: 0.555271
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 612: 0.909095
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 613: 0.304842
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 614: 0.874507
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 615: 0.893998
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 616: 0.15781
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 617: 0.785758
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 618: 0.962466
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 619: 0.19974
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 620: 0.658473
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 621: 0.500337
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 622: 0.727343
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 623: 0.41016
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 624: 0.826848
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 625: 0.932264
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 626: 0.775977
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 627: 0.937454
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 628: 0.794077
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 629: 0.484738
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 630: 0.54652
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 631: 0.176941
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 632: 0.177923
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 633: 0.255311
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 634: 0.658309
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 635: 0.316027
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 636: 0.789668
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 637: 0.716327
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 638: 0.933472
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 639: 0.841339
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 640: 0.621094
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 641: 0.59778
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 642: 0.772367
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 643: 0.506114
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 644: 0.828349
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 645: 0.391649
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 646: 0.566068
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 647: 0.570113
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 648: 0.854919
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 649: 0.283892
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 650: 0.566664
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 651: 0.537722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 652: 0.954417
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 653: 0.504064
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 654: 0.191462
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 655: 0.92255
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 656: 0.551973
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 657: 0.141782
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 658: 0.123437
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 659: 0.890375
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 660: 0.398038
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 661: 0.189156
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 662: 0.366299
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 663: 0.746014
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 664: 0.480841
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 665: 0.176178
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 666: 0.477641
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 667: 0.445665
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 668: 0.08139
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 669: 0.00834187
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 670: 0.88293
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 671: 0.222781
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 672: 0.432657
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 673: 0.903921
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 674: 0.578671
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 675: 0.471717
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 676: 0.825152
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 677: 0.154412
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 678: 0.538732
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 679: 0.848175
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 680: 0.972407
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 681: 0.279649
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 682: 0.929542
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 683: 0.908191
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 684: 0.344599
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 685: 0.548867
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 686: 0.722494
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 687: 0.773921
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 688: 0.137648
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 689: 0.907539
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 690: 0.303748
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 691: 0.028577
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 692: 0.0877188
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 693: 0.0425136
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 694: 0.0131758
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 695: 0.170247
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 696: 0.3844
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 697: 0.983459
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 698: 0.647005
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 699: 0.180617
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 700: 0.272132
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 701: 0.678967
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 702: 0.154084
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 703: 0.800869
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 704: 0.145827
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 705: 0.963925
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 706: 0.0701912
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 707: 0.441549
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 708: 0.986752
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 709: 0.356694
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 710: 0.0994512
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 711: 0.91921
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 712: 0.674424
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 713: 0.302518
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 714: 0.29256
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 715: 0.471927
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 716: 0.500176
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 717: 0.0472592
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 718: 0.840465
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 719: 0.605256
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 720: 0.776822
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 721: 0.83806
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 722: 0.430967
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 723: 0.947551
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 724: 0.806944
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 725: 0.997185
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 726: 0.963286
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 727: 0.879764
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 728: 0.0194444
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 729: 0.88205
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 730: 0.316829
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 731: 0.947562
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 732: 0.48119
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 733: 0.354123
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 734: 0.7838
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 735: 0.862186
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 736: 0.513725
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 737: 0.320988
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 738: 0.647277
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 739: 0.730906
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 740: 0.379283
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 741: 0.528947
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 742: 0.812616
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 743: 0.912894
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 744: 0.292069
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 745: 0.184485
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 746: 0.462083
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 747: 0.546404
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 748: 0.0635205
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 749: 0.740388
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 750: 0.61312
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 751: 0.593196
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 752: 0.110993
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 753: 0.0299639
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 754: 0.0282792
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 755: 0.489925
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 756: 0.726592
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 757: 0.322437
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 758: 0.277168
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 759: 0.34688
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 760: 0.800952
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 761: 0.157433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 762: 0.0110704
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 763: 0.920235
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 764: 0.926488
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 765: 0.726212
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 766: 0.931975
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 767: 0.426908
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 768: 0.0533434
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 769: 0.729086
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 770: 0.971863
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 771: 0.199404
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 772: 0.142075
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 773: 0.0423924
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 774: 0.668364
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 775: 0.586526
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 776: 0.838322
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 777: 0.254177
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Peso total na mochila: 65
+Valor total na mochila: 491
+Arquivo: Entrada_3.txt
+Valor total na mochila: 491 dinheiros
+Tempo de execução: 0.00125587 segundos
+----------------------------
+Probabilidade gerada para o item 1: 0.224368
+Ignorando item de peso 36 e valor 17 com base na probabilidade
+Probabilidade gerada para o item 2: 0.481197
+Ignorando item de peso 26 e valor 33 com base na probabilidade
+Probabilidade gerada para o item 3: 0.0216392
+Ignorando item de peso 18 e valor 1 com base na probabilidade
+Probabilidade gerada para o item 4: 0.445944
+Ignorando item de peso 65 e valor 41 com base na probabilidade
+Probabilidade gerada para o item 5: 0.554451
+Adicionando item de peso 21 e valor 27
+Probabilidade gerada para o item 6: 0.838462
+Ignorando item de peso 31 por exceder a capacidade
+Probabilidade gerada para o item 7: 0.465339
+Ignorando item de peso 74 e valor 37 com base na probabilidade
+Probabilidade gerada para o item 8: 0.548075
+Ignorando item de peso 25 por exceder a capacidade
+Probabilidade gerada para o item 9: 0.150069
+Ignorando item de peso 7 e valor 19 com base na probabilidade
+Probabilidade gerada para o item 10: 0.678905
+Ignorando item de peso 64 por exceder a capacidade
+Probabilidade gerada para o item 11: 0.856239
+Ignorando item de peso 58 por exceder a capacidade
+Probabilidade gerada para o item 12: 0.865667
+Ignorando item de peso 53 por exceder a capacidade
+Probabilidade gerada para o item 13: 0.735351
+Ignorando item de peso 20 por exceder a capacidade
+Probabilidade gerada para o item 14: 0.117941
+Ignorando item de peso 3 e valor 20 com base na probabilidade
+Probabilidade gerada para o item 15: 0.605243
+Ignorando item de peso 59 por exceder a capacidade
+Probabilidade gerada para o item 16: 0.831523
+Ignorando item de peso 26 por exceder a capacidade
+Probabilidade gerada para o item 17: 0.237477
+Ignorando item de peso 14 e valor 36 com base na probabilidade
+Probabilidade gerada para o item 18: 0.638098
+Ignorando item de peso 31 por exceder a capacidade
+Probabilidade gerada para o item 19: 0.976654
+Ignorando item de peso 86 por exceder a capacidade
+Probabilidade gerada para o item 20: 0.560512
+Ignorando item de peso 89 por exceder a capacidade
+Probabilidade gerada para o item 21: 0.71205
+Ignorando item de peso 61 por exceder a capacidade
+Probabilidade gerada para o item 22: 0.743646
+Ignorando item de peso 28 por exceder a capacidade
+Probabilidade gerada para o item 23: 0.347339
+Ignorando item de peso 45 e valor 29 com base na probabilidade
+Probabilidade gerada para o item 24: 0.988302
+Ignorando item de peso 66 por exceder a capacidade
+Probabilidade gerada para o item 25: 0.846302
+Adicionando item de peso 9 e valor 21
+Probabilidade gerada para o item 26: 0.536012
+Ignorando item de peso 7 por exceder a capacidade
+Probabilidade gerada para o item 27: 0.935188
+Adicionando item de peso 0 e valor 11
+Probabilidade gerada para o item 28: 0.281869
+Ignorando item de peso 11 e valor 40 com base na probabilidade
+Probabilidade gerada para o item 29: 0.464144
+Ignorando item de peso 21 e valor 37 com base na probabilidade
+Probabilidade gerada para o item 30: 0.891257
+Ignorando item de peso 13 por exceder a capacidade
+Probabilidade gerada para o item 31: 0.641579
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 32: 0.198624
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 33: 0.765698
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 34: 0.833262
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 35: 0.207899
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 36: 0.99675
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 37: 0.849184
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 38: 0.825342
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 39: 0.424452
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 40: 0.212724
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 41: 0.0184815
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 42: 0.702981
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 43: 0.438583
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 44: 0.91642
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 45: 0.617114
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 46: 0.539031
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 47: 0.468898
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 48: 0.511158
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 49: 0.97384
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 50: 0.757501
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 51: 0.0627422
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 52: 0.452788
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 53: 0.0910806
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 54: 0.814004
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 55: 0.603049
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 56: 0.862412
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 57: 0.0330725
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 58: 0.496711
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 59: 0.897562
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 60: 0.982008
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 61: 0.704018
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 62: 0.834395
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 63: 0.556798
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 64: 0.325801
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 65: 0.515189
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 66: 0.123782
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 67: 0.519454
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 68: 0.05362
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 69: 0.642836
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 70: 0.0304448
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 71: 0.362042
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 72: 0.255873
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 73: 0.95713
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 74: 0.866995
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 75: 0.536852
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 76: 0.148792
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 77: 0.116118
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 78: 0.863706
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 79: 0.528429
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 80: 0.112615
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 81: 0.674815
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 82: 0.0683638
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 83: 0.381033
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 84: 0.544953
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 85: 0.273093
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 86: 0.0961162
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 87: 0.277401
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 88: 0.286998
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 89: 0.250935
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 90: 0.784067
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 91: 0.987859
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 92: 0.919069
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 93: 0.219142
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 94: 0.313013
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 95: 0.780674
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 96: 0.751724
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 97: 0.866861
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 98: 0.9689
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 99: 0.0890658
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 100: 0.896801
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 101: 0.250258
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 102: 0.53011
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 103: 0.639893
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 104: 0.437702
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 105: 0.468863
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 106: 0.522831
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 107: 0.471519
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 108: 0.246078
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 109: 0.584571
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 110: 0.566685
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 111: 0.54218
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 112: 0.920376
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 113: 0.423655
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 114: 0.732448
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 115: 0.628489
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 116: 0.268276
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 117: 0.90053
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 118: 0.134516
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 119: 0.437275
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 120: 0.194638
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 121: 0.912744
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 122: 0.592755
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 123: 0.477054
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 124: 0.363103
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 125: 0.0554187
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 126: 0.184811
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 127: 0.300921
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 128: 0.566459
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 129: 0.91632
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 130: 0.426722
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 131: 0.827225
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 132: 0.0527345
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 133: 0.0757809
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 134: 0.638258
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 135: 0.101932
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 136: 0.134192
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 137: 0.52596
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 138: 0.548418
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 139: 0.610791
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 140: 0.449714
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 141: 0.998113
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 142: 0.836398
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 143: 0.281425
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 144: 0.343529
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 145: 0.548895
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 146: 0.834784
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 147: 0.753761
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 148: 0.276605
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 149: 0.064575
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 150: 0.717763
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 151: 0.558817
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 152: 0.0858813
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 153: 0.453524
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 154: 0.284616
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 155: 0.737731
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 156: 0.520815
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 157: 0.591508
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 158: 0.196134
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 159: 0.398245
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 160: 0.685247
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 161: 0.252032
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 162: 0.0322146
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 163: 0.619712
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 164: 0.172551
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 165: 0.161872
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 166: 0.158477
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 167: 0.451119
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 168: 0.497996
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 169: 0.182764
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 170: 0.10188
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 171: 0.654485
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 172: 0.506834
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 173: 0.47714
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 174: 0.43618
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 175: 0.792683
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 176: 0.947387
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 177: 0.553472
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 178: 0.514298
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 179: 0.205966
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 180: 0.684558
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 181: 0.943824
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 182: 0.439611
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 183: 0.966722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 184: 0.343754
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 185: 0.516378
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 186: 0.218721
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 187: 0.928902
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 188: 0.834723
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 189: 0.361384
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 190: 0.247238
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 191: 0.55455
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 192: 0.956061
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 193: 0.611237
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 194: 0.241721
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 195: 0.898657
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 196: 0.800818
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 197: 0.451688
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 198: 0.207514
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 199: 0.763755
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 200: 0.821613
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 201: 0.86652
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 202: 0.891125
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 203: 0.410184
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 204: 0.438572
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 205: 0.0333096
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 206: 0.991606
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 207: 0.875069
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 208: 0.126441
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 209: 0.897922
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 210: 0.665309
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 211: 0.135747
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 212: 0.569814
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 213: 0.165908
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 214: 0.954757
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 215: 0.162043
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 216: 0.883802
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 217: 0.714405
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 218: 0.867034
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 219: 0.695071
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 220: 0.63869
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 221: 0.729014
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 222: 0.104879
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 223: 0.123771
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 224: 0.71436
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 225: 0.0544993
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 226: 0.929855
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 227: 0.0964303
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 228: 0.515503
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 229: 0.80098
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 230: 0.222113
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 231: 0.0355948
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 232: 0.346171
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 233: 0.262029
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 234: 0.107693
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 235: 0.0934178
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 236: 0.207273
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 237: 0.84093
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 238: 0.0613478
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 239: 0.384594
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 240: 0.549548
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 241: 0.236872
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 242: 0.306211
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 243: 0.107878
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 244: 0.454389
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 245: 0.423227
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 246: 0.341637
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 247: 0.456235
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 248: 0.63957
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 249: 0.756775
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 250: 0.21262
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 251: 0.524909
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 252: 0.0352918
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 253: 0.995871
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 254: 0.0874397
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 255: 0.839129
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 256: 0.793769
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 257: 0.907207
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 258: 0.593035
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 259: 0.85333
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 260: 0.711296
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 261: 0.532235
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 262: 0.663974
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 263: 0.471596
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 264: 0.341671
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 265: 0.0720326
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 266: 0.702433
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 267: 0.151597
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 268: 0.246763
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 269: 0.667113
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 270: 0.951688
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 271: 0.819674
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 272: 0.785335
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 273: 0.127809
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 274: 0.187943
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 275: 0.200552
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 276: 0.0282429
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 277: 0.802397
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 278: 0.791013
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 279: 0.58472
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 280: 0.7807
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 281: 0.207043
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 282: 0.838408
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 283: 0.229437
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 284: 0.712605
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 285: 0.0621694
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 286: 0.445657
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 287: 0.0229192
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 288: 0.459433
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 289: 0.0827012
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 290: 0.379963
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 291: 0.555586
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 292: 0.976214
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 293: 0.669567
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 294: 0.474706
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 295: 0.0245061
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 296: 0.748463
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 297: 0.303124
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 298: 0.844948
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 299: 0.424806
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 300: 0.533096
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 301: 0.845374
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 302: 0.315553
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 303: 0.704659
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 304: 0.850681
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 305: 0.218564
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 306: 0.810539
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 307: 0.894198
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 308: 0.702288
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 309: 0.848746
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 310: 0.957829
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 311: 0.288043
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 312: 0.796965
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 313: 0.333163
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 314: 0.400468
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 315: 0.611118
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 316: 0.061607
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 317: 0.710524
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 318: 0.0176317
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 319: 0.897309
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 320: 0.241073
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 321: 0.496167
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 322: 0.903153
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 323: 0.677403
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 324: 0.186956
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 325: 0.582306
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 326: 0.769505
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 327: 0.606156
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 328: 0.313482
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 329: 0.686593
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 330: 0.140385
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 331: 0.429554
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 332: 0.766448
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 333: 0.533503
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 334: 0.421637
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 335: 0.996518
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 336: 0.076046
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 337: 0.627199
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 338: 0.456637
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 339: 0.474805
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 340: 0.924732
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 341: 0.952849
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 342: 0.429075
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 343: 0.490526
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 344: 0.43698
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 345: 0.444601
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 346: 0.834613
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 347: 0.795766
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 348: 0.767089
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 349: 0.495579
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 350: 0.434674
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 351: 0.886785
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 352: 0.45736
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 353: 0.455274
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 354: 0.61669
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 355: 0.601175
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 356: 0.220122
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 357: 0.0927593
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 358: 0.228011
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 359: 0.884722
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 360: 0.898635
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 361: 0.955017
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 362: 0.00298905
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 363: 0.249059
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 364: 0.467258
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 365: 0.346775
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 366: 0.133642
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 367: 0.0746201
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 368: 0.891407
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 369: 0.0611444
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 370: 0.0511055
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 371: 0.141511
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 372: 0.844202
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 373: 0.0268703
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 374: 0.520413
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 375: 0.519098
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 376: 0.00642587
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 377: 0.44597
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 378: 0.149472
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 379: 0.533367
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 380: 0.505836
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 381: 0.22982
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 382: 0.449697
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 383: 0.456339
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 384: 0.629921
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 385: 0.812693
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 386: 0.782948
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 387: 0.57331
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 388: 0.191537
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 389: 0.589149
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 390: 0.563485
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 391: 0.560415
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 392: 0.360718
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 393: 0.658328
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 394: 0.0741127
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 395: 0.244467
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 396: 0.373131
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 397: 0.3726
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 398: 0.710627
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 399: 0.934315
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 400: 0.632491
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 401: 0.735826
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 402: 0.381911
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 403: 0.946493
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 404: 0.451845
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 405: 0.0200411
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 406: 0.0154199
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 407: 0.505105
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 408: 0.310249
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 409: 0.505354
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 410: 0.953582
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 411: 0.41343
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 412: 0.205939
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 413: 0.237935
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 414: 0.58358
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 415: 0.929886
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 416: 0.834755
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 417: 0.485971
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 418: 0.390585
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 419: 0.213467
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 420: 0.856073
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 421: 0.719426
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 422: 0.85535
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 423: 0.923141
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 424: 0.699477
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 425: 0.408694
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 426: 0.381848
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 427: 0.00991444
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 428: 0.0172949
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 429: 0.695944
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 430: 0.961397
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 431: 0.463533
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 432: 0.50453
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 433: 0.244589
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 434: 0.951302
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 435: 0.0190165
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 436: 0.783156
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 437: 0.161651
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 438: 0.315184
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 439: 0.0789711
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 440: 0.554106
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 441: 0.13293
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 442: 0.754664
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 443: 0.822965
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 444: 0.28062
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 445: 0.77785
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 446: 0.489746
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 447: 0.884238
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 448: 0.555861
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 449: 0.638024
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 450: 0.748275
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 451: 0.982848
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 452: 0.951155
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 453: 0.482305
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 454: 0.553422
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 455: 0.956201
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 456: 0.683729
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 457: 0.60917
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 458: 0.863579
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 459: 0.382281
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 460: 0.551849
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 461: 0.321586
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 462: 0.271513
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 463: 0.430465
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 464: 0.314629
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 465: 0.323605
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 466: 0.654873
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 467: 0.0935605
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 468: 0.620139
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 469: 0.467109
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 470: 0.198794
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 471: 0.871402
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 472: 0.860973
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 473: 0.981174
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 474: 0.102343
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 475: 0.380626
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 476: 0.602044
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 477: 0.561126
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 478: 0.273204
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 479: 0.372227
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 480: 0.598105
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 481: 0.492366
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 482: 0.576241
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 483: 0.925161
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 484: 0.77284
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 485: 0.01564
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 486: 0.862912
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 487: 0.701466
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 488: 0.241731
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 489: 0.569617
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 490: 0.545294
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 491: 0.776418
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 492: 0.168614
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 493: 0.820279
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 494: 0.23972
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 495: 0.435699
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 496: 0.598966
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 497: 0.313031
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 498: 0.266142
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 499: 0.391581
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 500: 0.871759
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 501: 0.216414
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 502: 0.724532
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 503: 0.101646
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 504: 0.709517
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 505: 0.873095
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 506: 0.675172
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 507: 0.234928
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 508: 0.874422
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 509: 0.371724
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 510: 0.519143
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 511: 0.718704
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 512: 0.178435
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 513: 0.0637915
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 514: 0.130828
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 515: 0.50844
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 516: 0.855619
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 517: 0.819086
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 518: 0.0628201
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 519: 0.439428
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 520: 0.934488
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 521: 0.570999
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 522: 0.104845
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 523: 0.57992
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 524: 0.931066
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 525: 0.919019
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 526: 0.240188
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 527: 0.111044
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 528: 0.659289
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 529: 0.545128
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 530: 0.60828
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 531: 0.290485
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 532: 0.111767
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 533: 0.489983
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 534: 0.269492
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 535: 0.0728475
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 536: 0.0772103
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 537: 0.107285
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 538: 0.622449
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 539: 0.681178
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 540: 0.299383
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 541: 0.873938
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 542: 0.684042
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 543: 0.699405
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 544: 0.389495
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 545: 0.0124974
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 546: 0.365831
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 547: 0.346071
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 548: 0.969816
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 549: 0.791842
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 550: 0.369763
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 551: 0.952706
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 552: 0.722384
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 553: 0.867743
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 554: 0.460408
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 555: 0.64948
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 556: 0.128421
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 557: 0.77606
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 558: 0.417872
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 559: 0.884504
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 560: 0.257046
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 561: 0.342941
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 562: 0.941402
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 563: 0.137274
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 564: 0.570698
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 565: 0.818641
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 566: 0.359935
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 567: 0.634207
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 568: 0.814588
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 569: 0.846206
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 570: 0.853662
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 571: 0.550419
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 572: 0.0235416
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 573: 0.900255
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 574: 0.254458
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 575: 0.662225
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 576: 0.765744
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 577: 0.407215
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 578: 0.849938
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 579: 0.784095
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 580: 0.842986
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 581: 0.858556
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 582: 0.475137
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 583: 0.561246
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 584: 0.460765
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 585: 0.540111
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 586: 0.725916
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 587: 0.565258
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 588: 0.31743
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 589: 0.993129
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 590: 0.270094
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 591: 0.745511
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 592: 0.549932
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 593: 0.328944
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 594: 0.447361
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 595: 0.770435
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 596: 0.090006
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 597: 0.401053
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Probabilidade gerada para o item 598: 0.829063
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 599: 0.973776
+Adicionando item de peso 0 e valor 0
+Probabilidade gerada para o item 600: 0.328491
+Ignorando item de peso 0 e valor 0 com base na probabilidade
+Peso total na mochila: 30
+Valor total na mochila: 59
+Arquivo: Entrada_4.txt
+Valor total na mochila: 59 dinheiros
+Tempo de execução: 0.000957666 segundos
+----------------------------

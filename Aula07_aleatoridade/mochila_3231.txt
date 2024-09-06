@@ -1,0 +1,11 @@
+Arquivo: Entrada_1.txt
+Peso ocupado: 373 Kg
+Valor máximo na mochila: 601 dinheiros
+Tempo de execução: 40.708 segundos
+---------------------------
+Arquivo: Entrada_2.txt
+Peso ocupado: 239 Kg
+Valor máximo na mochila: 870 dinheiros
+Tempo de execução: 3315.21 segundos
+---------------------------
+slurmstepd-compute01: error: *** JOB 3231 ON compute01 CANCELLED AT 2024-08-30T12:22:30 DUE TO TIME LIMIT ***
