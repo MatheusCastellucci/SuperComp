@@ -10,15 +10,15 @@ struct Objeto {
     int valor;
 };
 
-// Função para comparar objetos pelo valor (ordem decrescente)
-bool compararPorValor(const Objeto &a, const Objeto &b) {
-    return a.valor > b.valor;
+// Função para comparar objetos pelo peso (ordem crescente)
+bool compararPorPeso(const Objeto &a, const Objeto &b) {
+    return a.peso < b.peso;
 }
 
-// Função para selecionar os objetos de acordo com a heurística "mais caro primeiro"
-int selecionarObjetos(std::vector<Objeto> &objetos, int capacidadeMaxima) {
-    // Ordenar os objetos pelo valor em ordem decrescente
-    std::sort(objetos.begin(), objetos.end(), compararPorValor);
+// Função para selecionar os objetos de acordo com a heurística "mais leve primeiro"
+int selecionarObjetosMaisLeves(std::vector<Objeto> &objetos, int capacidadeMaxima) {
+    // Ordenar os objetos pelo peso em ordem crescente
+    std::sort(objetos.begin(), objetos.end(), compararPorPeso);
     
     int valorTotal = 0;
     int pesoAtual = 0;
@@ -39,7 +39,7 @@ int main() {
     int capacidadeMaxima;
 
     // Abrir o arquivo de entrada
-    std::ifstream entrada("Aula08_hill_climbing\\Entrada_1.txt");
+    std::ifstream entrada("Entrada_3.txt");
 
     if (!entrada) {
         std::cerr << "Erro ao abrir o arquivo!" << std::endl;
@@ -60,8 +60,8 @@ int main() {
     // Medir o tempo de execução
     auto inicio = std::chrono::high_resolution_clock::now();
 
-    // Selecionar os objetos de acordo com a heurística "mais caro primeiro"
-    int valorMaximo = selecionarObjetos(objetos, capacidadeMaxima);
+    // Selecionar os objetos de acordo com a heurística "mais leve primeiro"
+    int valorMaximo = selecionarObjetosMaisLeves(objetos, capacidadeMaxima);
 
     auto fim = std::chrono::high_resolution_clock::now();
     std::chrono::duration<double> duracao = fim - inicio;
