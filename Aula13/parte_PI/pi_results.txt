@@ -1,0 +1,8 @@
+[matheusrnc@sms-host Aula13]$ ./pi_recursivo
+for 2147483648 steps pi = 3.14159265358977 in 5.41597295925021 secs
+
+[matheusrnc@sms-host Aula13]$ ./pi_recursivo_for
+for 2147483648 steps pi = 3.14159265358979 in 1.36084321700037 secs
+
+[matheusrnc@sms-host Aula13]$ ./pi_recursivo_task
+for 2147483648 steps pi = 3.14159265358983 in 1.76422933861613 secs

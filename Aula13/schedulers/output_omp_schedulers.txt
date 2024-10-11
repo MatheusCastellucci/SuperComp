@@ -1,0 +1,112 @@
+default:               
+****************                                                
+                ****************                                
+                                ****************                
+                                                ****************
+
+default:                executed in 0.00016244 seconds.
+
+schedule(static):      
+****************                                                
+                ****************                                
+                                ****************                
+                                                ****************
+
+schedule(static):       executed in 2.61422e-06 seconds.
+
+schedule(static, 4):   
+****            ****            ****            ****            
+    ****            ****            ****            ****        
+        ****            ****            ****            ****    
+            ****            ****            ****            ****
+
+schedule(static, 4):    executed in 2.76137e-06 seconds.
+
+schedule(static, 8):   
+********                        ********                        
+        ********                        ********                
+                ********                        ********        
+                        ********                        ********
+
+schedule(static, 8):    executed in 2.42889e-06 seconds.
+
+schedule(dynamic):     
+*   *   * *  * **    * *   **   *   *****   ******   *    **    
+ *   *   *    *   *     *    *    *       *             *   *   
+   *  *     *      *  *  *    *  *         *           *      * 
+  *    *   *     *  *     *    *   *     *        *** *  *   * *
+
+schedule(dynamic):      executed in 9.98378e-06 seconds.
+
+schedule(dynamic, 1):  
+ *   *  *    ** **  **    * * ***  *  *  *     ** ** ** **   *  
+   *     *               *          *   *           *  *   *   *
+  *   *     *     *    *   * *    *        *              *   * 
+*   *  *  **   *   *  * *        *   * *  * ***  *          *   
+
+schedule(dynamic, 1):   executed in 4.24869e-06 seconds.
+
+schedule(dynamic, 4):  
+            ****        ****            ****            ****    
+****                        ****                    ****        
+        ****    ****            ****                        ****
+    ****            ****            ****    ********            
+
+schedule(dynamic, 4):   executed in 3.02028e-06 seconds.
+
+schedule(dynamic, 8):  
+        ********                ********                ********
+********                                        ********        
+                ****************        ********                
+                                                                
+
+schedule(dynamic, 8):   executed in 2.97371e-06 seconds.
+
+schedule(guided):      
+                            *********                *****   * *
+                ************                              **    
+****************                                 ****         * 
+                                     ************           *   
+
+schedule(guided):       executed in 4.02983e-06 seconds.
+
+schedule(guided, 2):   
+                ************                     ****   **      
+****************                                            **  
+                            *********                     **    
+                                     ************    ***      **
+
+schedule(guided, 2):    executed in 3.31365e-06 seconds.
+
+schedule(guided, 4):   
+                ************                     ****        ***
+                            *********                    ****   
+                                     ************               
+****************                                     ****       
+
+schedule(guided, 4):    executed in 2.9169e-06 seconds.
+
+schedule(guided, 8):   
+****************                             ********        ***
+                                     ********                   
+                            *********                           
+                ************                         ********   
+
+schedule(guided, 8):    executed in 3.06685e-06 seconds.
+
+schedule(auto):        
+****************                                                
+                ****************                                
+                                ****************                
+                                                ****************
+
+schedule(auto):         executed in 2.80607e-06 seconds.
+
+schedule(runtime):     
+   *  *   * **  ** **    *** *  ** **   ** **    *  *  ***  *  *
+*   *   *      *     *               * *      *    *         *  
+  *    *   *          * *         *   *        *     *          
+ *   *   *    *   *    *    * **          *  *  * *   *   **  * 
+
+schedule(runtime):      executed in 4.65848e-06 seconds.
+
