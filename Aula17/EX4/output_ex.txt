@@ -1,0 +1,14 @@
+Processo 0 enviou: Mensagem exclusiva para 1 para o processo 1
+Processo 0 enviou: Mensagem exclusiva para 2 para o processo 2
+Processo 0 enviou: Mensagem exclusiva para 3 para o processo 3
+Processo 2 recebeu: Mensagem exclusiva para 2
+Processo 3 recebeu: Mensagem exclusiva para 3
+Processo 1 recebeu: Mensagem exclusiva para 1
+Processo 0 enviou: Mensagem exclusiva para 4 para o processo 4
+Processo 4 recebeu: Mensagem exclusiva para 4
+Processo 0 enviou: Mensagem exclusiva para 5 para o processo 5
+Processo 5 recebeu: Mensagem exclusiva para 5
+Processo 0 enviou: Mensagem exclusiva para 6 para o processo 6
+Processo 6 recebeu: Mensagem exclusiva para 6
+Processo 0 enviou: Mensagem exclusiva para 7 para o processo 7
+Processo 7 recebeu: Mensagem exclusiva para 7

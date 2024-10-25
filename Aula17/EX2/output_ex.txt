@@ -1,0 +1,10 @@
+Processo 0 enviou mensagem 0 para o processo 1
+Processo 1 recebeu mensagem 0 do processo 0
+Processo 1 enviou mensagem 1 para o processo 2
+Processo 2 recebeu mensagem 1 do processo 1
+Processo 2 enviou mensagem 2 para o processo 3
+Processo 3 recebeu mensagem 2 do processo 2
+Processo 3 enviou mensagem 3 para o processo 4
+Processo 4 recebeu mensagem 3 do processo 3
+Processo 0 recebeu mensagem 4 do processo 4
+Processo 4 enviou mensagem 4 para o processo 0

@@ -1,0 +1,15 @@
+Processo 1 recebeu soma 1 do processo 0 e somou seu valor 2, resultando em 3
+Processo 0 iniciou com valor 1 e enviou soma 1 para o processo 1
+Processo 1 enviou a soma 3 para o processo 2
+Processo 2 recebeu soma 3 do processo 1 e somou seu valor 3, resultando em 6
+Processo 2 enviou a soma 6 para o processo 3
+Processo 3 recebeu soma 6 do processo 2 e somou seu valor 4, resultando em 10
+Processo 3 enviou a soma 10 para o processo 4
+Processo 4 recebeu soma 10 do processo 3 e somou seu valor 5, resultando em 15
+Processo 4 enviou a soma 15 para o processo 5
+Processo 5 recebeu soma 15 do processo 4 e somou seu valor 6, resultando em 21
+Processo 5 enviou a soma 21 para o processo 6
+Processo 6 recebeu soma 21 do processo 5 e somou seu valor 7, resultando em 28
+Processo 6 enviou a soma 28 para o processo 7
+Processo 7 recebeu soma 28 do processo 6 e somou seu valor 8, resultando em 36
+Processo 7 é o último e a soma total é 36
