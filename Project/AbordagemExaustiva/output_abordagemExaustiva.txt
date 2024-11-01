@@ -1,1 +1,1 @@
-slurmstepd-compute00: error: *** JOB 6548 ON compute00 CANCELLED AT 2024-10-30T14:14:49 ***
+Clique máxima encontrada com tamanho 15: 1 3 7 9 10 25 26 30 55 62 63 64 74 78 92 
