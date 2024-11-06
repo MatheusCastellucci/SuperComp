@@ -1,84 +1,101 @@
 #include <iostream>
-#include <vector>
 #include <fstream>
-#include <string>
+#include <vector>
 #include <algorithm>
+#include <chrono>
 
-// Função para ler o grafo a partir do arquivo de entrada
 std::vector<std::vector<int>> LerGrafo(const std::string& nomeArquivo, int& numVertices) {
     std::ifstream arquivo(nomeArquivo);
+    
+    // Verifica se o arquivo foi aberto com sucesso
+    if (!arquivo.is_open()) {
+        std::cerr << "Erro: Não foi possível abrir o arquivo " << nomeArquivo << std::endl;
+        return {};
+    } else {
+        std::cout << "Arquivo " << nomeArquivo << " encontrado e aberto com sucesso." << std::endl;
+    }
+    
     int numArestas;
-    arquivo >> numVertices >> numArestas;
+    if (!(arquivo >> numVertices >> numArestas)) {
+        std::cerr << "Erro ao ler o número de vértices e arestas." << std::endl;
+        return {};
+    }
+    
+    std::cout << "Número de vértices: " << numVertices << ", Número de arestas: " << numArestas << std::endl;
 
     std::vector<std::vector<int>> grafo(numVertices, std::vector<int>(numVertices, 0));
 
+    // Lê as arestas e exibe cada linha lida
     for (int i = 0; i < numArestas; ++i) {
         int u, v;
-        arquivo >> u >> v;
+        if (!(arquivo >> u >> v)) {
+            std::cerr << "Erro ao ler uma aresta." << std::endl;
+            return {};
+        }
         grafo[u - 1][v - 1] = 1;
-        grafo[v - 1][u - 1] = 1;
+        grafo[v - 1][u - 1] = 1;  // Grafo não direcionado
+        
+        // Exibe a aresta lida
+        std::cout << "Aresta adicionada: " << u << " <-> " << v << std::endl;
     }
 
     arquivo.close();
     return grafo;
 }
 
-// Função para verificar se um nó pode ser adicionado à clique
-bool podeAdicionarClique(const std::vector<int>& clique, int vertice, const std::vector<std::vector<int>>& grafo) {
-    for (int v : clique) {
-        if (grafo[v][vertice] == 0) {
-            return false;
+bool FormaClique(const std::vector<std::vector<int>>& grafo, const std::vector<int>& conjunto) {
+    for (size_t i = 0; i < conjunto.size(); ++i) {
+        for (size_t j = i + 1; j < conjunto.size(); ++j) {
+            if (grafo[conjunto[i]][conjunto[j]] == 0) {
+                return false;
+            }
         }
     }
     return true;
 }
 
-// Função recursiva para encontrar a clique máxima com poda
-void encontrarCliqueMaxima(int verticeAtual, std::vector<int>& cliqueAtual, 
-                           std::vector<int>& melhorClique, const std::vector<std::vector<int>>& grafo) {
-    // Atualiza a maior clique encontrada até o momento
-    if (cliqueAtual.size() > melhorClique.size()) {
-        melhorClique = cliqueAtual;
-    }
+std::vector<int> EncontrarCliqueMaxima(const std::vector<std::vector<int>>& grafo, int numVertices) {
+    std::vector<int> cliqueMaxima;
 
-    // Verifica se continuar a busca é viável
-    if (cliqueAtual.size() + (grafo.size() - verticeAtual) <= melhorClique.size()) {
-        return; // Poda por tamanho: Não há como formar uma clique maior a partir daqui
-    }
+    for (int mask = 0; mask < (1 << numVertices); ++mask) {
+        std::vector<int> conjunto;
+        for (int i = 0; i < numVertices; ++i) {
+            if (mask & (1 << i)) {
+                conjunto.push_back(i);
+            }
+        }
 
-    // Itera sobre os próximos vértices
-    for (int v = verticeAtual; v < grafo.size(); ++v) {
-        if (podeAdicionarClique(cliqueAtual, v, grafo)) {
-            cliqueAtual.push_back(v);
-            encontrarCliqueMaxima(v + 1, cliqueAtual, melhorClique, grafo); // Chamada recursiva
-            cliqueAtual.pop_back();
+        if (FormaClique(grafo, conjunto) && conjunto.size() > cliqueMaxima.size()) {
+            cliqueMaxima = conjunto;
         }
     }
+
+    return cliqueMaxima;
 }
 
 int main() {
+    std::string nomeArquivo = "grafo.txt";
     int numVertices;
-    std::vector<std::vector<int>> grafo = LerGrafo("grafo.txt", numVertices);
-    
-    std::vector<int> melhorClique;
-    std::vector<int> cliqueAtual;
+    auto grafo = LerGrafo(nomeArquivo, numVertices);
 
-    // Ordena os vértices por grau de adjacência
-    std::vector<int> vertices(numVertices);
-    for (int i = 0; i < numVertices; ++i) vertices[i] = i;
-    std::sort(vertices.begin(), vertices.end(), [&](int a, int b) {
-        return std::count(grafo[a].begin(), grafo[a].end(), 1) > std::count(grafo[b].begin(), grafo[b].end(), 1);
-    });
+    if (grafo.empty()) {
+        std::cerr << "Erro ao carregar o grafo." << std::endl;
+        return 1;
+    }
 
-    // Executa a busca exaustiva aprimorada para encontrar a clique máxima
-    encontrarCliqueMaxima(0, cliqueAtual, melhorClique, grafo);
+    auto inicio = std::chrono::high_resolution_clock::now();
 
-    // Imprime a clique máxima encontrada
-    std::cout << "Clique máxima encontrada com tamanho " << melhorClique.size() << ": ";
-    for (int v : melhorClique) {
+    auto cliqueMaxima = EncontrarCliqueMaxima(grafo, numVertices);
+
+    auto fim = std::chrono::high_resolution_clock::now();
+    std::chrono::duration<double> duracao = fim - inicio;
+
+    std::cout << "Clique máxima encontrada: ";
+    for (int v : cliqueMaxima) {
         std::cout << v + 1 << " ";
     }
-    std::cout << std::endl;
+    std::cout << "\nTamanho da clique máxima: " << cliqueMaxima.size() << std::endl;
+    std::cout << "Tempo de execução: " << duracao.count() << " segundos" << std::endl;
 
     return 0;
 }

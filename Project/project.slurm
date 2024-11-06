@@ -8,4 +8,4 @@
 #SBATCH --partition=espec
 
 
-./clique_maxima
+./clique_exaustiva
