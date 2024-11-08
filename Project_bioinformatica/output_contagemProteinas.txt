@@ -1,0 +1,169 @@
+Arquivo: rna_data/chr1.subst_rna.fa
+  Cisteína: 1067225
+  Glutamina: 1221477
+  Prolina: 2808346
+  Treonina: 3690035
+  Serina: 3790286
+  Metionina: 545990
+  Valina: 3681775
+Arquivo: rna_data/chr2.subst_rna.fa
+  Treonina: 3826882
+  Glutamina: 1287018
+  Prolina: 2709552
+  Serina: 3858933
+  Metionina: 587834
+  Cisteína: 1145100
+  Valina: 3820321
+Arquivo: rna_data/chr3.subst_rna.fa
+  Metionina: 489125
+  Glutamina: 1049324
+  Prolina: 2133833
+  Cisteína: 928544
+  Treonina: 3085050
+  Valina: 3086243
+  Serina: 3124748
+Arquivo: rna_data/chr4.subst_rna.fa
+  Cisteína: 899059
+  Prolina: 1873928
+  Treonina: 2893836
+  Glutamina: 996937
+  Serina: 2891442
+  Valina: 2893749
+  Metionina: 479661
+Arquivo: rna_data/chr5.subst_rna.fa
+  Glutamina: 957374
+  Prolina: 1924040
+  Serina: 2832320
+  Treonina: 2816463
+  Cisteína: 851687
+  Metionina: 444262
+  Valina: 2810089
+Arquivo: rna_data/chr6.subst_rna.fa
+  Metionina: 418859
+  Glutamina: 899507
+  Prolina: 1822348
+  Serina: 2674164
+  Valina: 2645574
+  Treonina: 2639571
+  Cisteína: 804935
+Arquivo: rna_data/chr7.subst_rna.fa
+  Metionina: 379160
+  Prolina: 1819392
+  Treonina: 2505726
+  Glutamina: 836578
+  Serina: 2531041
+  Cisteína: 748385
+  Valina: 2512717
+Arquivo: rna_data/chr8.subst_rna.fa
+  Metionina: 351186
+  Serina: 2299950
+  Prolina: 1593491
+  Cisteína: 693185
+  Glutamina: 767871
+  Treonina: 2279616
+  Valina: 2287226
+Arquivo: rna_data/chr9.subst_rna.fa
+  Cisteína: 580852
+  Glutamina: 649203
+  Serina: 1980413
+  Prolina: 1459167
+  Treonina: 1958321
+  Metionina: 291663
+  Valina: 1958280
+Arquivo: rna_data/chr10.subst_rna.fa
+  Metionina: 313803
+  Serina: 2188075
+  Cisteína: 635362
+  Treonina: 2167391
+  Prolina: 1607551
+  Valina: 2164892
+  Glutamina: 715595
+Arquivo: rna_data/chr11.subst_rna.fa
+  Glutamina: 708906
+  Prolina: 1614246
+  Treonina: 2143806
+  Cisteína: 624120
+  Valina: 2137512
+  Metionina: 314902
+  Serina: 2194046
+Arquivo: rna_data/chr12.subst_rna.fa
+  Cisteína: 620955
+  Metionina: 320516
+  Glutamina: 701560
+  Serina: 2141433
+  Valina: 2103415
+  Treonina: 2101092
+  Prolina: 1531683
+Arquivo: rna_data/chr13.subst_rna.fa
+  Cisteína: 463800
+  Prolina: 974143
+  Glutamina: 510429
+  Metionina: 243002
+  Valina: 1486054
+  Serina: 1479143
+  Treonina: 1489254
+Arquivo: rna_data/chr14.subst_rna.fa
+  Metionina: 215638
+  Prolina: 1045906
+  Cisteína: 418261
+  Treonina: 1432189
+  Glutamina: 480639
+  Serina: 1451308
+  Valina: 1419907
+Arquivo: rna_data/chr15.subst_rna.fa
+  Metionina: 198649
+  Glutamina: 446312
+  Treonina: 1350487
+  Prolina: 1040401
+  Cisteína: 394057
+  Valina: 1357260
+  Serina: 1381558
+Arquivo: rna_data/chr16.subst_rna.fa
+Arquivo: rna_data/chr17.subst_rna.fa
+  Cisteína: 365817
+  Glutamina: 428631
+  Metionina: 175131
+  Prolina: 1179802
+  Serina: 1395093
+  Valina: 1344232
+  Treonina: 1344265
+Arquivo: rna_data/chr18.subst_rna.fa
+  Cisteína: 362469
+  Treonina: 1191182
+  Serina: 1193854
+  Glutamina: 403131
+  Prolina: 818229
+  Valina: 1188183
+  Metionina: 184452
+Arquivo: rna_data/chr19.subst_rna.fa
+  Metionina: 117191
+  Glutamina: 310852
+  Cisteína: 263950
+  Valina: 993212
+  Serina: 1028817
+  Prolina: 960976
+  Treonina: 998565
+Arquivo: rna_data/chr20.subst_rna.fa
+  Metionina: 133822
+  Glutamina: 331725
+  Cisteína: 285030
+  Treonina: 1031517
+  Valina: 1017478
+  Serina: 1039347
+  Prolina: 836863
+Arquivo: rna_data/chr21.subst_rna.fa
+  Cisteína: 173636
+  Glutamina: 188600
+  Metionina: 84448
+  Prolina: 415968
+  Valina: 571787
+  Serina: 570449
+  Treonina: 571429
+Arquivo: rna_data/chr22.subst_rna.fa
+  Cisteína: 170892
+  Metionina: 72707
+  Glutamina: 193406
+  Valina: 638281
+  Prolina: 595958
+  Treonina: 635915
+  Serina: 653141

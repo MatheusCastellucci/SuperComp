@@ -21,7 +21,7 @@ for i in {1..22}; do
     
     # Pré-processamento: manter apenas A, T, C, G, converter para maiúsculas, e remover espaços extras
     echo "Pré-processando $FILE..."
-    awk '/^>/ {print; next} {gsub(/[^ATCG]/, ""); print toupper($0)}' "$OUTPUT_DIR/$FILE" > "$PROCESSED_DIR/$FILE"
+    awk '/^>/ {print; next} { $0 = toupper($0); gsub(/[^ATCG]/, ""); print }' "$OUTPUT_DIR/$FILE" > "$PROCESSED_DIR/$FILE"
 done
 
 echo "Downloads, descompactação e pré-processamento concluídos!"
