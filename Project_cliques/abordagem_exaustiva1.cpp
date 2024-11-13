@@ -2,8 +2,10 @@
 #include <vector>
 #include <fstream>
 #include <string>
+#include <chrono> // Para medir o tempo
 
 using namespace std;
+using namespace std::chrono;
 
 // Função para ler o grafo a partir do arquivo de entrada
 vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
@@ -25,7 +27,7 @@ vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
     return grafo;
 }
 
-// Função para encontrar o clique máximo em um grafo, dado pela matriz de adjacência
+// Função para encontrar o clique máximo em um grafo (abordagem exaustiva)
 vector<int> EncontrarCliqueMaxima(const vector<vector<int>>& grafo, int numVertices) {
     vector<int> cliqueMaxima;      // Armazena o clique máximo encontrado
     vector<int> candidatos;        // Armazena todos os nós como candidatos iniciais
@@ -83,15 +85,22 @@ int main() {
     // Lê o grafo do arquivo
     vector<vector<int>> grafo = LerGrafo(nomeArquivo, numVertices);
 
-    // Encontra a clique máxima
+    // Medindo o tempo de execução da abordagem exaustiva
+    auto inicio = high_resolution_clock::now();
     vector<int> cliqueMaxima = EncontrarCliqueMaxima(grafo, numVertices);
+    auto fim = high_resolution_clock::now();
+
+    // Calcula o tempo de execução
+    auto duracao = duration_cast<milliseconds>(fim - inicio);
 
     // Exibe o resultado
-    cout << "Clique Máxima Encontrada: ";
+    cout << "Clique Máxima Encontrada (Abordagem Exaustiva): ";
     for (int v : cliqueMaxima) {
         cout << v + 1 << " "; // Ajusta a indexação para iniciar em 1
     }
     cout << endl;
+
+    cout << "Tempo de Execução: " << duracao.count() << " ms" << endl;
 
     return 0;
 }

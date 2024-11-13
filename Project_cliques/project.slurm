@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name=abordagemExaustiva           # Nome do job
-#SBATCH --output=output_abordagemExaustiva.txt          # Nome do arquivo de saída
+#SBATCH --job-name=abordagemExaustiva1           # Nome do job
+#SBATCH --output=output_abordagemExaustiva1.txt          # Nome do arquivo de saída
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=2048
@@ -8,4 +8,6 @@
 #SBATCH --partition=espec
 
 
-./clique_exaustiva
+./abordagem_exaustiva1
+
+./abordagem_exaustiva2
