@@ -1,3 +1,3 @@
-Clique Máxima Encontrada: 3 5 7 8 11 16 17 18 19 74 78 100 
-Tamanho da Clique Máxima: 12
-Tempo de Execução: 0.000190916 segundos
+Clique Máxima Encontrada: 17 18 22 24 26 29 32 34 39 56 66 92 100 109 159 235 
+Tamanho da Clique Máxima: 16
+Tempo de Execução: 0.00123214 segundos
