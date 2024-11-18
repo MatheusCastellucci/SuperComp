@@ -3,18 +3,23 @@
 #include <fstream>
 #include <string>
 #include <algorithm>
-#include <chrono> // Para medir o tempo
+#include <chrono>
 
 using namespace std;
 using namespace std::chrono;
 
+// Variáveis globais
+vector<vector<int>> grafo;
+vector<int> melhorClique;
+int numVertices;
+
 // Função para ler o grafo a partir do arquivo de entrada
-vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
+void LerGrafo(const string& nomeArquivo) {
     ifstream arquivo(nomeArquivo);
     int numArestas;
     arquivo >> numVertices >> numArestas;
 
-    vector<vector<int>> grafo(numVertices, vector<int>(numVertices, 0));
+    grafo.assign(numVertices, vector<int>(numVertices, 0));
 
     for (int i = 0; i < numArestas; ++i) {
         int u, v;
@@ -24,104 +29,85 @@ vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
     }
 
     arquivo.close();
-
-    return grafo;
 }
 
 // Função para calcular o grau de cada vértice
-vector<int> CalcularGrau(const vector<vector<int>>& grafo) {
-    int numVertices = grafo.size();
+vector<int> CalcularGrau() {
     vector<int> grau(numVertices, 0);
-
     for (int i = 0; i < numVertices; ++i) {
         for (int j = 0; j < numVertices; ++j) {
             grau[i] += grafo[i][j];
         }
     }
-
     return grau;
 }
 
-// Função para encontrar o clique máximo em um grafo com heurística de ordenação por grau
-vector<int> EncontrarCliqueMaxima(const vector<vector<int>>& grafo, int numVertices) {
-    vector<int> cliqueMaxima;      // Armazena o clique máximo encontrado
-    vector<int> candidatos(numVertices); // Lista de candidatos
-
-    // Preenche a lista de candidatos inicialmente com todos os vértices
-    for (int i = 0; i < numVertices; i++) {
-        candidatos[i] = i;
-    }
-
-    // Calcula o grau dos vértices e ordena os candidatos pelo grau em ordem decrescente
-    vector<int> grau = CalcularGrau(grafo);
-    sort(candidatos.begin(), candidatos.end(), [&](int a, int b) {
-        return grau[a] > grau[b];
-    });
-
-    // Enquanto houver candidatos, tentamos adicionar ao clique
-    while (!candidatos.empty()) {
-        int v = candidatos.back(); // Seleciona o candidato com menor grau restante
-        candidatos.pop_back();     // Remove o último candidato
-
-        bool podeAdicionar = true;
-
-        // Verifica se o nó selecionado é adjacente a todos os nós já no clique
-        for (int u : cliqueMaxima) {
-            if (grafo[u][v] == 0) { // Se não há conexão entre u e v
-                podeAdicionar = false;
-                break;
-            }
-        }
-
-        // Se o nó pode ser adicionado ao clique máximo
-        if (podeAdicionar) {
-            cliqueMaxima.push_back(v); // Adiciona v ao clique máximo
-            vector<int> novosCandidatos;
-
-            // Filtra os candidatos restantes que são adjacentes a todos no clique
-            for (int u : candidatos) {
-                bool adjacenteATodos = true;
-                for (int c : cliqueMaxima) {
-                    if (grafo[u][c] == 0) { // Se u não é adjacente a algum no clique
-                        adjacenteATodos = false;
-                        break;
-                    }
-                }
-                if (adjacenteATodos) {
-                    novosCandidatos.push_back(u);
-                }
-            }
-
-            candidatos = novosCandidatos; // Atualiza os candidatos
+// Função para verificar se um vértice pode ser adicionado ao clique atual
+bool PodeAdicionar(const vector<int>& cliqueAtual, int v) {
+    for (int u : cliqueAtual) {
+        if (grafo[u][v] == 0) { // Se v não é adjacente a todos os vértices no clique
+            return false;
         }
     }
+    return true;
+}
 
-    return cliqueMaxima; // Retorna o clique máximo encontrado
+// Função recursiva para encontrar a maior clique com heurística
+void BuscarCliqueMaxima(vector<int>& cliqueAtual, const vector<int>& ordenados, int indice) {
+    // Atualiza a melhor clique caso a atual seja maior
+    if (cliqueAtual.size() > melhorClique.size()) {
+        melhorClique = cliqueAtual;
+    }
+
+    // Tenta adicionar novos vértices à clique atual
+    for (int i = indice; i < ordenados.size(); i++) {
+        int v = ordenados[i];
+        if (PodeAdicionar(cliqueAtual, v)) { // Checa se é possível adicionar o vértice
+            cliqueAtual.push_back(v);
+            BuscarCliqueMaxima(cliqueAtual, ordenados, i + 1); // Busca a partir do próximo vértice
+            cliqueAtual.pop_back(); // Remove o vértice após a chamada recursiva
+        }
+    }
 }
 
 int main() {
-    int numVertices;
     string nomeArquivo = "grafo.txt"; // Nome do arquivo de entrada
 
     // Lê o grafo do arquivo
-    vector<vector<int>> grafo = LerGrafo(nomeArquivo, numVertices);
+    LerGrafo(nomeArquivo);
 
-    // Medindo o tempo de execução da abordagem com heurística
+    // Calcula o grau dos vértices
+    vector<int> grau = CalcularGrau();
+
+    // Ordena os vértices por grau em ordem decrescente
+    vector<int> ordenados(numVertices);
+    for (int i = 0; i < numVertices; ++i) {
+        ordenados[i] = i;
+    }
+    sort(ordenados.begin(), ordenados.end(), [&](int a, int b) {
+        return grau[a] > grau[b];
+    });
+
+    // Início da medição do tempo
     auto inicio = high_resolution_clock::now();
-    vector<int> cliqueMaxima = EncontrarCliqueMaxima(grafo, numVertices);
-    auto fim = high_resolution_clock::now();
 
-    // Calcula o tempo de execução
-    auto duracao = duration_cast<milliseconds>(fim - inicio);
+    // Encontra a clique máxima usando busca exaustiva com heurística
+    vector<int> cliqueAtual;
+    BuscarCliqueMaxima(cliqueAtual, ordenados, 0);
+
+    // Fim da medição do tempo
+    auto fim = high_resolution_clock::now();
+    auto duracao = duration_cast<seconds>(fim - inicio);
 
     // Exibe o resultado
-    cout << "Clique Máxima Encontrada (Abordagem com Heurística): ";
-    for (int v : cliqueMaxima) {
-        cout << v + 1 << " "; // Ajusta a indexação para iniciar em 1
+    cout << "Clique Máxima Encontrada: ";
+    for (int v : melhorClique) {
+        cout << (v + 1) << " "; // Ajuste para 1-based index
     }
     cout << endl;
 
-    cout << "Tempo de Execução: " << duracao.count() << " ms" << endl;
+    cout << "Tamanho da Clique Máxima: " << melhorClique.size() << endl;
+    cout << "Tempo de Execução: " << duracao.count() << " segundos" << endl;
 
     return 0;
 }
