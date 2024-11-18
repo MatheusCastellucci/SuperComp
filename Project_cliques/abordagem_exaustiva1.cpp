@@ -3,6 +3,7 @@
 #include <fstream>
 #include <string>
 #include <chrono>
+#include <cmath>
 
 using namespace std;
 using namespace std::chrono;
@@ -30,29 +31,37 @@ void LerGrafo(const string& nomeArquivo) {
     arquivo.close();
 }
 
-// Função para verificar se um vértice pode ser adicionado ao clique atual
-bool PodeAdicionar(const vector<int>& cliqueAtual, int v) {
-    for (int u : cliqueAtual) {
-        if (grafo[u][v] == 0) { // Se v não é adjacente a todos os vértices no clique
-            return false;
+// Função para verificar se um conjunto de vértices forma uma clique
+bool VerificaClique(const vector<int>& clique) {
+    for (size_t i = 0; i < clique.size(); ++i) {
+        for (size_t j = i + 1; j < clique.size(); ++j) {
+            if (grafo[clique[i]][clique[j]] == 0) { // Se não estão conectados
+                return false;
+            }
         }
     }
     return true;
 }
 
-// Função recursiva para encontrar a maior clique
-void BuscarCliqueMaxima(vector<int>& cliqueAtual, int vertice) {
-    // Atualiza a melhor clique caso a atual seja maior
-    if (cliqueAtual.size() > melhorClique.size()) {
-        melhorClique = cliqueAtual;
-    }
+// Função para encontrar a maior clique usando força bruta
+void BuscarCliqueMaxima() {
+    int totalCombinacoes = pow(2, numVertices); // 2^numVertices combinações possíveis
 
-    // Tenta adicionar novos vértices à clique atual
-    for (int i = vertice; i < numVertices; i++) {
-        if (PodeAdicionar(cliqueAtual, i)) { // Checa se é possível adicionar o vértice
-            cliqueAtual.push_back(i);
-            BuscarCliqueMaxima(cliqueAtual, i + 1); // Busca a partir do próximo vértice
-            cliqueAtual.pop_back(); // Remove o vértice após a chamada recursiva
+    for (int mascara = 0; mascara < totalCombinacoes; ++mascara) {
+        vector<int> cliqueAtual;
+
+        // Construir subconjunto correspondente à máscara
+        for (int i = 0; i < numVertices; ++i) {
+            if (mascara & (1 << i)) { // Se o i-ésimo bit da máscara está definido
+                cliqueAtual.push_back(i);
+            }
+        }
+
+        // Verificar se o subconjunto forma uma clique
+        if (VerificaClique(cliqueAtual)) {
+            if (cliqueAtual.size() > melhorClique.size()) {
+                melhorClique = cliqueAtual; // Atualizar a melhor clique
+            }
         }
     }
 }
@@ -66,13 +75,12 @@ int main() {
     // Início da medição do tempo
     auto inicio = high_resolution_clock::now();
 
-    // Encontra a clique máxima usando busca exaustiva com recursão
-    vector<int> cliqueAtual;
-    BuscarCliqueMaxima(cliqueAtual, 0);
+    // Encontra a clique máxima usando força bruta
+    BuscarCliqueMaxima();
 
     // Fim da medição do tempo
     auto fim = high_resolution_clock::now();
-    auto duracao = duration_cast<seconds>(fim - inicio);
+    auto duracao = duration_cast<milliseconds>(fim - inicio);
 
     // Exibe o resultado
     cout << "Clique Máxima Encontrada: ";
@@ -82,7 +90,7 @@ int main() {
     cout << endl;
 
     cout << "Tamanho da Clique Máxima: " << melhorClique.size() << endl;
-    cout << "Tempo de Execução: " << duracao.count() << " segundos" << endl;
+    cout << "Tempo de Execução: " << duracao.count() << " ms" << endl;
 
     return 0;
 }
