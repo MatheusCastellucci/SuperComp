@@ -128,9 +128,16 @@ int main(int argc, char** argv) {
     // Cada processo encontra sua maior clique
     vector<int> cliqueMaximaLocal = EncontrarCliqueMaxima(cliquesMaximais);
 
+    // Padronizar tamanho dos buffers antes do MPI_Reduce
+    int tamanhoCliqueLocal = cliqueMaximaLocal.size(); // Salvar tamanho em uma variável
+    int maxTamanhoClique = 0;
+    MPI_Allreduce(&tamanhoCliqueLocal, &maxTamanhoClique, 1, MPI_INT, MPI_MAX, MPI_COMM_WORLD);
+
+    cliqueMaximaLocal.resize(maxTamanhoClique, -1); // Preenche com valores "vazios"
+    vector<int> cliqueMaximaGlobal(maxTamanhoClique, -1);
+
     // O processo mestre reúne as cliques máximas de todos os processos
-    vector<int> cliqueMaximaGlobal(cliqueMaximaLocal.size());
-    MPI_Reduce(cliqueMaximaLocal.data(), cliqueMaximaGlobal.data(), cliqueMaximaLocal.size(),
+    MPI_Reduce(cliqueMaximaLocal.data(), cliqueMaximaGlobal.data(), maxTamanhoClique,
                MPI_INT, MPI_MAX, 0, MPI_COMM_WORLD);
 
     double fim = MPI_Wtime();
@@ -139,10 +146,10 @@ int main(int argc, char** argv) {
     if (rank == 0) {
         cout << "Clique Máxima Encontrada: ";
         for (int v : cliqueMaximaGlobal) {
-            cout << (v + 1) << " "; // Ajuste para 1-based index
+            if (v != -1) cout << (v + 1) << " "; // Ajuste para 1-based index
         }
         cout << endl;
-        cout << "Tamanho da Clique Máxima: " << cliqueMaximaGlobal.size() << endl;
+        cout << "Tamanho da Clique Máxima: " << maxTamanhoClique << endl;
         cout << "Tempo de Execução: " << (fim - inicio) << " segundos" << endl;
     }
 
