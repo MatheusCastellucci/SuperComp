@@ -2,18 +2,23 @@
 #include <vector>
 #include <fstream>
 #include <string>
-#include <chrono> // Para medir o tempo
+#include <chrono>
 
 using namespace std;
 using namespace std::chrono;
 
+// Variáveis globais
+vector<vector<int>> grafo;
+vector<int> melhorClique;
+int numVertices;
+
 // Função para ler o grafo a partir do arquivo de entrada
-vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
+void LerGrafo(const string& nomeArquivo) {
     ifstream arquivo(nomeArquivo);
     int numArestas;
     arquivo >> numVertices >> numArestas;
 
-    vector<vector<int>> grafo(numVertices, vector<int>(numVertices, 0));
+    grafo.assign(numVertices, vector<int>(numVertices, 0));
 
     for (int i = 0; i < numArestas; ++i) {
         int u, v;
@@ -23,84 +28,61 @@ vector<vector<int>> LerGrafo(const string& nomeArquivo, int& numVertices) {
     }
 
     arquivo.close();
-
-    return grafo;
 }
 
-// Função para encontrar o clique máximo em um grafo (abordagem exaustiva)
-vector<int> EncontrarCliqueMaxima(const vector<vector<int>>& grafo, int numVertices) {
-    vector<int> cliqueMaxima;      // Armazena o clique máximo encontrado
-    vector<int> candidatos;        // Armazena todos os nós como candidatos iniciais
-
-    // Adiciona todos os nós na lista de candidatos
-    for (int i = 0; i < numVertices; i++) {
-        candidatos.push_back(i);
-    }
-
-    // Enquanto houver candidatos, tentamos adicionar ao clique
-    while (!candidatos.empty()) {
-        int v = candidatos.back(); // Seleciona o último candidato
-        candidatos.pop_back();     // Remove o último candidato
-
-        bool podeAdicionar = true;
-
-        // Verifica se o nó selecionado é adjacente a todos os nós já no clique
-        for (int u : cliqueMaxima) {
-            if (grafo[u][v] == 0) { // Se não há conexão entre u e v
-                podeAdicionar = false;
-                break;
-            }
-        }
-
-        // Se o nó pode ser adicionado ao clique máximo
-        if (podeAdicionar) {
-            cliqueMaxima.push_back(v); // Adiciona v ao clique máximo
-            vector<int> novosCandidatos;
-
-            // Filtra os candidatos restantes que são adjacentes a todos no clique
-            for (int u : candidatos) {
-                bool adjacenteATodos = true;
-                for (int c : cliqueMaxima) {
-                    if (grafo[u][c] == 0) { // Se u não é adjacente a algum no clique
-                        adjacenteATodos = false;
-                        break;
-                    }
-                }
-                if (adjacenteATodos) {
-                    novosCandidatos.push_back(u);
-                }
-            }
-
-            candidatos = novosCandidatos; // Atualiza os candidatos
+// Função para verificar se um vértice pode ser adicionado ao clique atual
+bool PodeAdicionar(const vector<int>& cliqueAtual, int v) {
+    for (int u : cliqueAtual) {
+        if (grafo[u][v] == 0) { // Se v não é adjacente a todos os vértices no clique
+            return false;
         }
     }
+    return true;
+}
 
-    return cliqueMaxima; // Retorna o clique máximo encontrado
+// Função recursiva para encontrar a maior clique
+void BuscarCliqueMaxima(vector<int>& cliqueAtual, int vertice) {
+    // Atualiza a melhor clique caso a atual seja maior
+    if (cliqueAtual.size() > melhorClique.size()) {
+        melhorClique = cliqueAtual;
+    }
+
+    // Tenta adicionar novos vértices à clique atual
+    for (int i = vertice; i < numVertices; i++) {
+        if (PodeAdicionar(cliqueAtual, i)) { // Checa se é possível adicionar o vértice
+            cliqueAtual.push_back(i);
+            BuscarCliqueMaxima(cliqueAtual, i + 1); // Busca a partir do próximo vértice
+            cliqueAtual.pop_back(); // Remove o vértice após a chamada recursiva
+        }
+    }
 }
 
 int main() {
-    int numVertices;
     string nomeArquivo = "grafo.txt"; // Nome do arquivo de entrada
 
     // Lê o grafo do arquivo
-    vector<vector<int>> grafo = LerGrafo(nomeArquivo, numVertices);
+    LerGrafo(nomeArquivo);
 
-    // Medindo o tempo de execução da abordagem exaustiva
+    // Início da medição do tempo
     auto inicio = high_resolution_clock::now();
-    vector<int> cliqueMaxima = EncontrarCliqueMaxima(grafo, numVertices);
-    auto fim = high_resolution_clock::now();
 
-    // Calcula o tempo de execução
-    auto duracao = duration_cast<milliseconds>(fim - inicio);
+    // Encontra a clique máxima usando busca exaustiva com recursão
+    vector<int> cliqueAtual;
+    BuscarCliqueMaxima(cliqueAtual, 0);
+
+    // Fim da medição do tempo
+    auto fim = high_resolution_clock::now();
+    auto duracao = duration_cast<seconds>(fim - inicio);
 
     // Exibe o resultado
-    cout << "Clique Máxima Encontrada (Abordagem Exaustiva): ";
-    for (int v : cliqueMaxima) {
-        cout << v + 1 << " "; // Ajusta a indexação para iniciar em 1
+    cout << "Clique Máxima Encontrada: ";
+    for (int v : melhorClique) {
+        cout << (v + 1) << " "; // Ajuste para 1-based index
     }
     cout << endl;
 
-    cout << "Tempo de Execução: " << duracao.count() << " ms" << endl;
+    cout << "Tamanho da Clique Máxima: " << melhorClique.size() << endl;
+    cout << "Tempo de Execução: " << duracao.count() << " segundos" << endl;
 
     return 0;
 }
