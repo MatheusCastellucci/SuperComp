@@ -6,17 +6,17 @@
 
 const int N = 1000;  // Dimensão da matriz
 
-std::vector<double> calculateRowAverages(const std::vector<double>& matrix, int rowsPerProcess, int cols) {
-    std::vector<double> rowAverages(rowsPerProcess);
+std::vector<double> calculaMedia(const std::vector<double>& matrix, int linhasProcesso, int cols) {
+    std::vector<double> mediaLinha(linhasProcesso);
     #pragma omp parallel for
-    for (int i = 0; i < rowsPerProcess; ++i) {
-        double sum = 0.0;
+    for (int i = 0; i < linhasProcesso; ++i) {
+        double soma = 0.0;
         for (int j = 0; j < cols; ++j) {
-            sum += matrix[i * cols + j];
+            soma += matrix[i * cols + j];
         }
-        rowAverages[i] = sum / cols;
+        mediaLinha[i] = soma / cols;
     }
-    return rowAverages;
+    return mediaLinha;
 }
 
 int main(int argc, char** argv) {
@@ -34,25 +34,25 @@ int main(int argc, char** argv) {
         }
     }
 
-    int rowsPerProcess = N / size;
-    std::vector<double> localMatrix(rowsPerProcess * N);
-    MPI_Scatter(matrix.data(), rowsPerProcess * N, MPI_DOUBLE, localMatrix.data(), rowsPerProcess * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+    int linhasProcesso = N / size;
+    std::vector<double> localMatrix(linhasProcesso * N);
+    MPI_Scatter(matrix.data(), linhasProcesso * N, MPI_DOUBLE, localMatrix.data(), linhasProcesso * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
-    std::vector<double> localAverages = calculateRowAverages(localMatrix, rowsPerProcess, N);
+    std::vector<double> mediaLocal = calculaMedia(localMatrix, linhasProcesso, N);
 
-    std::vector<double> allAverages;
+    std::vector<double> todasMedias;
     if (rank == 0) {
-        allAverages.resize(N);
+        todasMedias.resize(N);
     }
-    MPI_Gather(localAverages.data(), rowsPerProcess, MPI_DOUBLE, allAverages.data(), rowsPerProcess, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+    MPI_Gather(mediaLocal.data(), linhasProcesso, MPI_DOUBLE, todasMedias.data(), linhasProcesso, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
     if (rank == 0) {
         double totalSum = 0.0;
-        for (double avg : allAverages) {
+        for (double avg : todasMedias) {
             totalSum += avg;
         }
-        double totalAverage = totalSum / N;
-        std::cout << "Média total de todas as linhas: " << totalAverage << std::endl;
+        double mediaTotal = totalSum / N;
+        std::cout << "Média total de todas as linhas: " << mediaTotal << std::endl;
     }
 
     MPI_Finalize();
