@@ -8,4 +8,4 @@
 #SBATCH --partition=espec
 
 
-./exercicio4
+mpirun ./exercicio4
