@@ -3,7 +3,7 @@
 #include <omp.h>
 
 void processImage(std::vector<std::vector<int>>& image) {
-    #pragma omp parallel for collapse(2)
+    #pragma omp parallel for
     for (size_t i = 0; i < image.size(); ++i) {
         for (size_t j = 0; j < image[i].size(); ++j) {
             image[i][j] = (image[i][j] * 2) % 256;
