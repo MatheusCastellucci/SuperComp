@@ -41,7 +41,7 @@ int main() {
 
     double media, maior, produto;
 
-    // Paralelizando a execução das três tarefas
+    // execução dessas tarefas simultaneamente e, em cada tarefa, sub-paralelizar para distribuir o processamento dos dados
     #pragma omp parallel sections
     {
         #pragma omp section
@@ -59,11 +59,8 @@ int main() {
             produto = calculaProduto(vetor);
         }
     }
-
-    // Exibindo os resultados
     std::cout << "Média: " << media << std::endl;
     std::cout << "Maior valor: " << maior << std::endl;
     std::cout << "Produto: " << produto << std::endl;
-
     return 0;
 }
