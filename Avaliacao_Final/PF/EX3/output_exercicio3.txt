@@ -1,0 +1,3 @@
+Média: 3
+Maior valor: 5
+Produto: 120

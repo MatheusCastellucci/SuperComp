@@ -8,4 +8,4 @@
 #SBATCH --partition=espec
 
 
-./exericio3
+./exercicio3
