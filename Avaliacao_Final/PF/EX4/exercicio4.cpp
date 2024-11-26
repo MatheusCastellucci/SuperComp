@@ -6,17 +6,17 @@
 
 const int N = 1000;  // Dimensão da matriz
 
-std::vector<double> calculaMediaLinha(const std::vector<std::vector<double>>& matrix, int startRow, int endRow) {
-    std::vector<double> mediaLinha(endRow - startRow);
+std::vector<double> calculateRowAverages(const std::vector<double>& matrix, int rowsPerProcess, int cols) {
+    std::vector<double> rowAverages(rowsPerProcess);
     #pragma omp parallel for
-    for (int i = startRow; i < endRow; ++i) {
+    for (int i = 0; i < rowsPerProcess; ++i) {
         double sum = 0.0;
-        for (int j = 0; j < N; ++j) {
-            sum += matrix[i][j];
+        for (int j = 0; j < cols; ++j) {
+            sum += matrix[i * cols + j];
         }
-        mediaLinha[i - startRow] = sum / N;
+        rowAverages[i] = sum / cols;
     }
-    return mediaLinha;
+    return rowAverages;
 }
 
 int main(int argc, char** argv) {
@@ -26,27 +26,25 @@ int main(int argc, char** argv) {
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
     MPI_Comm_size(MPI_COMM_WORLD, &size);
 
-    std::vector<std::vector<double>> matrix;
+    std::vector<double> matrix;
     if (rank == 0) {
-        matrix.resize(N, std::vector<double>(N));
-        for (int i = 0; i < N; ++i) {
-            for (int j = 0; j < N; ++j) {
-                matrix[i][j] = rand() % 100;
-            }
+        matrix.resize(N * N);
+        for (int i = 0; i < N * N; ++i) {
+            matrix[i] = rand() % 100;
         }
     }
 
-    int linhasPorProcesso = N / size;
-    std::vector<std::vector<double>> localMatrix(linhasPorProcesso, std::vector<double>(N));
-    MPI_Scatter(matrix.data()->data(), linhasPorProcesso * N, MPI_DOUBLE, localMatrix.data()->data(), linhasPorProcesso * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+    int rowsPerProcess = N / size;
+    std::vector<double> localMatrix(rowsPerProcess * N);
+    MPI_Scatter(matrix.data(), rowsPerProcess * N, MPI_DOUBLE, localMatrix.data(), rowsPerProcess * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
-    std::vector<double> localAverages = calculaMediaLinha(localMatrix, 0, linhasPorProcesso);
+    std::vector<double> localAverages = calculateRowAverages(localMatrix, rowsPerProcess, N);
 
     std::vector<double> allAverages;
     if (rank == 0) {
         allAverages.resize(N);
     }
-    MPI_Gather(localAverages.data(), linhasPorProcesso, MPI_DOUBLE, allAverages.data(), linhasPorProcesso, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+    MPI_Gather(localAverages.data(), rowsPerProcess, MPI_DOUBLE, allAverages.data(), rowsPerProcess, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
     if (rank == 0) {
         double totalSum = 0.0;
