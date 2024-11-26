@@ -1,1 +1,2 @@
 Média total de todas as linhas: 49.4986
+Tempo de processamento: 0.0444958 segundos.
